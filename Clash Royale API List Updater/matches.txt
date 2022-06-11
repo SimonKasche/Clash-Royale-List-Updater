@@ -1,0 +1,487 @@
+Earthquake , Dark Prince , Prince , Firecracker , Guards , Royal Ghost , Mega Knight , Hunter , #92RJYJV8U , #2G8Y2LQGR , 6026 , 20220609T202453.000Z
+Golem , Night Witch , Bats , Arrows , Lumberjack , Clone , Skeleton Army , Baby Dragon , #PGLG0LUP , #2G8Y2LQGR , 6014 , 20220609T202035.000Z
+Wall Breakers , Goblin Barrel , Skeleton Army , Inferno Tower , The Log , Minion Horde , Skeleton Barrel , Mega Knight , #YGVCU98UV , #2G8Y2LQGR , 5928 , 20220609T201718.000Z
+Mortar , Valkyrie , The Log , Miner , Fire Spirit , Fireball , Skeletons , Archer Queen , #82LJ0JYYV , #2G8Y2LQGR , 5977 , 20220609T201405.000Z
+Ice Golem , Elixir Collector , Barbarian Barrel , Elite Barbarians , Three Musketeers , Royal Ghost , Heal Spirit , Golden Knight , #G8CYP22Y , #2G8Y2LQGR , 6008 , 20220609T195726.000Z
+Ice Spirit , Dart Goblin , Goblin Barrel , Arrows , Rocket , Cannon , Golden Knight , Skeletons , #88JCU02RY , #2G8Y2LQGR , 5976 , 20220609T183637.000Z
+Barbarian Barrel , Bowler , Freeze , Balloon , Inferno Dragon , Tornado , Lumberjack , Baby Dragon , #2C20R9PRG , #2G8Y2LQGR , 5974 , 20220609T183325.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #2G8Y2LQGR , 5987 , 20220609T180005.000Z
+Giant , Minions , Mirror , Tornado , Sparky , Graveyard , Minion Horde , Mini P.E.K.K.A , #2LRCUVG0C , #2G8Y2LQGR , 5962 , 20220609T175655.000Z
+Golem , Golden Knight , Baby Dragon , Tornado , Barbarian Barrel , Night Witch , Lightning , Goblin Cage , #88GYYPJJ , #2G8Y2LQGR , 5924 , 20220609T112116.000Z
+Fireball , Dart Goblin , Goblin Barrel , Princess , Skeleton King , The Log , Bandit , Bats , #2LVVR0LJ , #2G8Y2LQGR , 5995 , 20220609T095131.000Z
+Lava Hound , Mighty Miner , Miner , Baby Dragon , Mega Minion , Tombstone , Zap , Fireball , #QJULURUR , #2G8Y2LQGR , 5952 , 20220609T073456.000Z
+Royal Recruits , Royal Hogs , Flying Machine , Zappies , Electro Spirit , Goblin Cage , Fireball , Barbarian Barrel , #8GG9JPCRY , #2G8Y2LQGR , 6032 , 20220609T072954.000Z
+Royal Recruits , Royal Hogs , Flying Machine , Zappies , Goblin Cage , Golden Knight , Fireball , Arrows , #PV00UQCR0 , #2G8Y2LQGR , 6075 , 20220608T065319.000Z
+Valkyrie , Hog Rider , Executioner , Rocket , Goblins , Tornado , The Log , Ice Spirit , #89PULPCR0 , #2G8Y2LQGR , 5999 , 20220607T195151.000Z
+Giant Skeleton , Hog Rider , Musketeer , Skeletons , Cannon , The Log , Earthquake , Electro Spirit , #LG822999 , #2G8Y2LQGR , 6066 , 20220607T185518.000Z
+P.E.K.K.A , Musketeer , Miner , Zap , Golden Knight , Electro Wizard , Baby Dragon , Poison , #CYU9Y9Q , #2G8Y2LQGR , 5977 , 20220607T185236.000Z
+Golden Knight , Royal Ghost , Mirror , Elixir Collector , Bats , Three Musketeers , The Log , Elite Barbarians , #9VPPVYQG , #2G8Y2LQGR , 5983 , 20220607T184715.000Z
+Archer Queen , Skeletons , Hog Rider , Fire Spirit , Cannon , Giant Skeleton , Earthquake , The Log , #9LRG9U028 , #2G8Y2LQGR , 6017 , 20220607T184201.000Z
+Lumberjack , Arrows , Skeleton Army , Inferno Dragon , Mega Knight , Baby Dragon , Freeze , Balloon , #L200YL2YC , #2G8Y2LQGR , 5953 , 20220607T183645.000Z
+Elite Barbarians , Bandit , Magic Archer , Electro Wizard , Cannon Cart , Royal Ghost , Mother Witch , Barbarian Barrel , #Y28PYUJG , #G2LC0PVU , 5692 , 20220609T170246.000Z
+Musketeer , Electro Wizard , The Log , Hog Rider , Zap , Tesla , Elite Barbarians , Valkyrie , #VQPCUYP , #G2LC0PVU , 5623 , 20220608T220219.000Z
+Hog Rider , Valkyrie , Musketeer , Goblin Barrel , Mini P.E.K.K.A , Goblin Gang , Princess , The Log , #8PC09PJJQ , #G2LC0PVU , 5657 , 20220608T173004.000Z
+Princess , Rocket , Dart Goblin , Goblin Gang , Goblin Barrel , Rascals , The Log , Prince , #28Y0JCPPU , #G2LC0PVU , 5613 , 20220608T153811.000Z
+Fireball , Ice Spirit , Knight , Zap , Elite Barbarians , Balloon , Musketeer , Skeletons , #2G8RPVJJ8 , #G2LC0PVU , 5634 , 20220608T153344.000Z
+Rage , Wizard , Electro Spirit , Balloon , Minion Horde , Skeleton Army , Musketeer , Valkyrie , #2JGPUQPVV , #G2LC0PVU , 5685 , 20220608T153010.000Z
+Guards , Golem , Lightning , Firecracker , Arrows , Musketeer , Mini P.E.K.K.A , Bomber , #2VC8YCRC , #G2LC0PVU , 5672 , 20220608T152654.000Z
+Archer Queen , Dark Prince , Fire Spirit , Royal Ghost , Bandit , The Log , Hog Rider , Royal Delivery , #28VLQYPRJ , #G2LC0PVU , 5709 , 20220608T151929.000Z
+Tesla , Mini P.E.K.K.A , Bandit , Magic Archer , Mega Knight , Electro Wizard , Arrows , Mirror , #2CPLUVRGP , #G2LC0PVU , 5689 , 20220608T133948.000Z
+Royal Giant , Skeleton King , Mother Witch , Fireball , Fisherman , Skeleton Army , Zappies , The Log , #9002Y022G , #G2LC0PVU , 5726 , 20220607T211918.000Z
+Baby Dragon , Elite Barbarians , Skeleton Army , Zap , Princess , Inferno Tower , Fireball , Hog Rider , #8CLGYQJC , #G2LC0PVU , 5672 , 20220607T143330.000Z
+Goblins , Spear Goblins , Goblin Cage , Goblin Barrel , Mirror , Goblin Gang , Dart Goblin , Goblin Giant , #8VVPCYYU9 , #G2LC0PVU , 5699 , 20220606T234248.000Z
+Mirror , Tornado , Rage , Giant Skeleton , Lightning , Magic Archer , Electro Giant , Archer Queen , #PQUP0822 , #G2LC0PVU , 5796 , 20220606T225918.000Z
+Mini P.E.K.K.A , Goblin Barrel , Executioner , Barbarians , Goblin Gang , Zap , Tornado , Skeleton Army , #20J9P00U2 , #G2LC0PVU , 5670 , 20220606T225527.000Z
+Wizard , Knight , Hog Rider , Electro Wizard , Bats , Mega Knight , Mini P.E.K.K.A , Zap , #2UGG0GP9R , #G2LC0PVU , 5662 , 20220606T150946.000Z
+Bandit , Tornado , Mega Knight , Bats , Zap , Goblin Barrel , Executioner , Cannon , #9P9L8JG9 , #92LLYR9P , 5646 , 20220608T200230.000Z
+Giant Skeleton , Tornado , Elite Barbarians , Executioner , Minions , Electro Spirit , Bandit , Fireball , #JQG2GL8Q2 , #92LLYR9P , 5637 , 20220608T195911.000Z
+Zap , Witch , Mirror , Electro Giant , Rage , Flying Machine , Skeleton Army , Rocket , #8YYY8QLQ , #92LLYR9P , 5658 , 20220608T152542.000Z
+Electro Giant , Bowler , Royal Ghost , Ice Wizard , Mega Minion , Barbarian Barrel , Lightning , Tornado , #P8QRPRJ8U , #92LLYR9P , 5681 , 20220608T152304.000Z
+Ice Spirit , Goblin Barrel , Goblin Gang , Princess , Inferno Tower , The Log , Rocket , Knight , #P0R989QUQ , #92LLYR9P , 5654 , 20220607T224741.000Z
+Hog Rider , Wizard , Bats , Barbarian Barrel , Giant Skeleton , Guards , Mini P.E.K.K.A , Rocket , #YL822L2Q , #92LLYR9P , 5681 , 20220606T221142.000Z
+Dart Goblin , Hog Rider , Valkyrie , Furnace , Bats , P.E.K.K.A , The Log , Poison , #J9099GG , #92LLYR9P , 5720 , 20220606T220820.000Z
+Knight , Rocket , Inferno Tower , Goblin Barrel , Dart Goblin , Valkyrie , Princess , The Log , #2QUPUGGLU , #92LLYR9P , 5740 , 20220606T201335.000Z
+Rocket , Goblin Barrel , Fire Spirit , Inferno Tower , Princess , Mighty Miner , Skeletons , The Log , #2GU9Y2C9 , #92LLYR9P , 5697 , 20220606T201014.000Z
+Sparky , Firecracker , Goblin Giant , Zap , Tesla , Mini P.E.K.K.A , Rage , Dark Prince , #Q9GJQPC8R , #92LLYR9P , 5677 , 20220606T200656.000Z
+Guards , Witch , Sparky , Lumberjack , Giant Skeleton , Balloon , Arrows , Minions , #8Y09C822V , #92LLYR9P , 5682 , 20220606T200500.000Z
+Cannon , Witch , Goblin Barrel , The Log , Hog Rider , Mirror , Dart Goblin , Valkyrie , #2QRRUV980 , #92LLYR9P , 5738 , 20220606T200143.000Z
+Royal Giant , Giant Skeleton , Electro Spirit , Hunter , Fisherman , Barbarian Barrel , Poison , Zappies , #VL8CQ98 , #92LLYR9P , 6199 , 20220606T052335.000Z
+Balloon , Lumberjack , Freeze , Arrows , Inferno Dragon , Valkyrie , Bats , Skeleton Army , #PQUCLCLG , #92LLYR9P , 6172 , 20220606T051944.000Z
+Royal Giant , Fisherman , Electro Spirit , Dark Prince , Skeletons , Hunter , The Log , Lightning , #Q0GR0Y90 , #92LLYR9P , 6186 , 20220605T233354.000Z
+Zap , Fireball , Prince , Minions , Wizard , Mega Knight , Tesla , Barbarian Barrel , #9CC8YP9CL , #92LLYR9P , 6147 , 20220605T233014.000Z
+Flying Machine , Dark Prince , Poison , Mega Minion , Hog Rider , Zap , Barbarian Barrel , Golem , #9Y80RRCCJ , #92LLYR9P , 6092 , 20220605T232448.000Z
+Electro Dragon , Hog Rider , Witch , Clone , Giant Skeleton , Tornado , Minions , Freeze , #2U92PQYGJ , #Y2UJQYLC , 5849 , 20220609T214007.000Z
+Mega Knight , Valkyrie , Bandit , Prince , Freeze , Inferno Dragon , Balloon , Bats , #8GYP02UGU , #Y2UJQYLC , 5879 , 20220609T213449.000Z
+Rage , Tornado , P.E.K.K.A , Electro Wizard , Zap , Bowler , Wizard , Hog Rider , #88CQRJG0 , #Y2UJQYLC , 5856 , 20220609T213017.000Z
+Goblin Barrel , Rocket , Hunter , Valkyrie , Barbarian Barrel , Skeletons , Princess , Electro Spirit , #PY8YCCLJU , #Y2UJQYLC , 5878 , 20220609T212642.000Z
+Goblin Giant , Tornado , Guards , Furnace , Barbarian Barrel , Executioner , Minions , Fireball , #298G9YG8J , #Y2UJQYLC , 5398 , 20220609T165936.000Z
+Mini P.E.K.K.A , Prince , Magic Archer , Bowler , Skeleton Army , Archer Queen , Dart Goblin , Guards , #882UJLRGV , #Y2UJQYLC , 5303 , 20220609T165616.000Z
+Firecracker , Mini P.E.K.K.A , Tesla , Balloon , Bomber , Skeleton Barrel , Goblin Gang , Freeze , #2Y8VRQ2LY , #Y2UJQYLC , 5839 , 20220609T164535.000Z
+Dart Goblin , Goblin Barrel , Inferno Tower , Knight , Princess , Skeleton Army , Skeleton Barrel , The Log , #20PJLVJ , #Y2UJQYLC , 5850 , 20220609T163055.000Z
+Furnace , Balloon , Mirror , Arrows , Giant Skeleton , Goblin Hut , Barbarian Hut , Rage , #9YRVV9YP0 , #Y2UJQYLC , 5864 , 20220609T162743.000Z
+Giant Skeleton , Tornado , Hog Rider , Hunter , Barbarian Barrel , Poison , Guards , Electro Dragon , #Y9008PYY , #Y2UJQYLC , 5881 , 20220609T162424.000Z
+Knight , The Log , Rocket , Ice Spirit , Inferno Tower , Goblin Barrel , Goblin Gang , Princess , #8088QQ8VJ , #Y2UJQYLC , 5866 , 20220608T203123.000Z
+The Log , Fireball , Hog Rider , Skeletons , Cannon , Ice Golem , Musketeer , Ice Spirit , #89VUPPCYJ , #Y2UJQYLC , 5865 , 20220608T202906.000Z
+Skeletons , The Log , Fireball , Hog Rider , Musketeer , Cannon , Ice Spirit , Ice Golem , #C0L0CPGP , #Y2UJQYLC , 5854 , 20220608T155444.000Z
+Lava Hound , Balloon , Baby Dragon , Minions , Fireball , Zap , Tombstone , Valkyrie , #GYQCR2UV , #Y2UJQYLC , 5837 , 20220608T155124.000Z
+Electro Giant , Tornado , Golden Knight , Lightning , Guards , Sparky , X-Bow , Mega Minion , #PL8RL2L0U , #Y2UJQYLC , 5848 , 20220608T154655.000Z
+Arrows , Balloon , Rage , Lava Hound , Valkyrie , Minions , Goblin Gang , Guards , #2PC92VU8Y , #Y2UJQYLC , 5870 , 20220608T153705.000Z
+Executioner , The Log , P.E.K.K.A , Fireball , Tornado , Mini P.E.K.K.A , Hog Rider , Electro Wizard , #YRJG9QCL , #Y2UJQYLC , 5883 , 20220608T153256.000Z
+Hog Rider , Witch , Fireball , Arrows , Inferno Tower , Wizard , Mega Knight , Firecracker , #9V9JR28YR , #8PPPVR90G , 5294 , 20220609T214019.000Z
+Giant Skeleton , Hog Rider , Witch , Poison , Wizard , Bandit , Goblin Barrel , Musketeer , #JCR088 , #V0VV2J0G , 5339 , 20220609T190454.000Z
+P.E.K.K.A , Bandit , Electro Wizard , Fireball , Royal Ghost , Archer Queen , Hog Rider , Zap , #LUYCL0LPG , #Y9UCQC8Q , 6209 , 20220609T190111.000Z
+Goblin Barrel , Mega Knight , Wizard , Valkyrie , Bats , Dart Goblin , Goblin Gang , Zap , #LU0U98QCL , #Y9UCQC8Q , 5305 , 20220609T185751.000Z
+Zappies , Arrows , Ice Spirit , Elixir Golem , Clone , Tornado , Graveyard , Mirror , #2RJYCY2 , #Y9UCQC8Q , 6024 , 20220609T164823.000Z
+Rocket , Inferno Tower , The Log , Skeletons , Tornado , Ice Wizard , Bats , Poison , #PLGCR9PUR , #Y9UCQC8Q , 5987 , 20220609T164534.000Z
+Skeleton Barrel , Mirror , Giant Skeleton , Valkyrie , Fire Spirit , Goblin Barrel , Clone , Miner , #89QR22JJ9 , #Y9UCQC8Q , 5104 , 20220609T163936.000Z
+Poison , Goblin Gang , Valkyrie , Hog Rider , Graveyard , Knight , Wizard , Tesla , #2R9YUYV8L , #89JV2LJVY , 5350 , 20220609T142859.000Z
+Princess , Guards , Goblin Barrel , Inferno Tower , Valkyrie , The Log , Electro Spirit , Rocket , #Q2RY0P0V , #Y9UCQC8Q , 5696 , 20220609T135619.000Z
+Mega Knight , Inferno Dragon , Prince , Bats , Musketeer , Wall Breakers , Zap , Fireball , #8GP9YY0 , #Y9UCQC8Q , 5849 , 20220609T110728.000Z
+Bowler , Giant Skeleton , Skeleton Army , Lumberjack , Skeleton King , Electro Dragon , Royal Ghost , Princess , #CY9JL22R , #L92RRU9U , 5722 , 20220609T110442.000Z
+Hog Rider , Freeze , Valkyrie , Balloon , Dart Goblin , Skeleton Army , Zap , Wizard , #PJ88JPJG , #98J0VCJJ , 5244 , 20220609T110127.000Z
+Witch , Skeleton Army , Mega Knight , Hog Rider , Zap , Bandit , Knight , Wizard , #80C22GCYY , #Y9UCQC8Q , 5641 , 20220609T105729.000Z
+Earthquake , Arrows , Firecracker , Hog Rider , Ice Spirit , Valkyrie , Tesla , Skeletons , #9289JQJ2V , #Y9UCQC8Q , 5308 , 20220609T091408.000Z
+Zap , Skeletons , P.E.K.K.A , Electro Wizard , Valkyrie , Fireball , Bats , Hog Rider , #2Q9GU02PC , #8VJCQL0 , 5232 , 20220609T091025.000Z
+Mini P.E.K.K.A , Furnace , Freeze , Dart Goblin , The Log , Valkyrie , Earthquake , Magic Archer , #2JLQVPJ2Q , #Y9UCQC8Q , 5480 , 20220609T090617.000Z
+Barbarians , Hog Rider , Rocket , Royal Giant , Executioner , P.E.K.K.A , Goblin Barrel , Freeze , #P290CVLYC , #Y9UCQC8Q , 5369 , 20220609T090313.000Z
+X-Bow , Mini P.E.K.K.A , Archer Queen , Skeletons , Elixir Collector , Fire Spirit , Electro Spirit , The Log , #Q9YYQP8Y , #Y9UCQC8Q , 5868 , 20220609T090119.000Z
+Giant Skeleton , Flying Machine , Hog Rider , Goblin Gang , Electro Wizard , Rage , Dart Goblin , Lumberjack , #2GJLJ9Q88 , #Y9UCQC8Q , 5537 , 20220609T081422.000Z
+Royal Giant , Witch , Barbarian Hut , Poison , Lumberjack , Skeleton Army , Minions , Furnace , #2L8JPQR0 , #Y9UCQC8Q , 5459 , 20220609T064927.000Z
+Barbarian Barrel , Knight , Lumberjack , Freeze , Skeleton Army , Mother Witch , Wizard , Balloon , #98PCV0829 , #8G8YRUY80 , 5331 , 20220608T212047.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #8YRL8RVR2 , 5957 , 20220609T163934.000Z
+Mini P.E.K.K.A , Minion Horde , Hog Rider , Fireball , Goblins , Miner , Ice Wizard , The Log , #LR8YJ0CY , #8YRL8RVR2 , 5900 , 20220609T163405.000Z
+Graveyard , Royal Ghost , Skeleton King , Tornado , Skeleton Army , Witch , Giant Skeleton , Tombstone , #VL9GU92P , #8YRL8RVR2 , 5974 , 20220609T161645.000Z
+Lumberjack , Balloon , Bowler , Inferno Dragon , Baby Dragon , Barbarian Barrel , Tornado , Freeze , #P8JCRCQ99 , #8YRL8RVR2 , 5993 , 20220609T121255.000Z
+Princess , Cannon , Ice Spirit , Goblin Barrel , Rocket , Valkyrie , Dart Goblin , The Log , #22UGQPU2R , #8YRL8RVR2 , 5952 , 20220609T120936.000Z
+Skeleton King , Dart Goblin , Mirror , P.E.K.K.A , Skeleton Barrel , Giant Skeleton , The Log , Electro Wizard , #22089Y2PP , #8YRL8RVR2 , 5985 , 20220609T104532.000Z
+Electro Wizard , Mother Witch , Electro Spirit , The Log , P.E.K.K.A , Royal Ghost , Bandit , Lightning , #2P229Q2V , #8YRL8RVR2 , 5981 , 20220609T104052.000Z
+The Log , Musketeer , Ice Wizard , Miner , Zap , Fireball , Giant , Barbarians , #PCQJ22C , #8YRL8RVR2 , 5996 , 20220609T084929.000Z
+Elixir Golem , Tornado , Rage , Night Witch , Baby Dragon , Bowler , Electro Dragon , Mini P.E.K.K.A , #P2CY9PC0 , #8YRL8RVR2 , 6029 , 20220609T084519.000Z
+Firecracker , Elixir Golem , Elixir Collector , Bowler , Mirror , Dark Prince , Night Witch , Rage , #2YR2PRCC , #8YRL8RVR2 , 5977 , 20220609T084206.000Z
+Lightning , Electro Giant , Fire Spirit , Tornado , The Log , Inferno Dragon , Skeletons , Tombstone , #99UU8P0V , #8YRL8RVR2 , 6026 , 20220609T083757.000Z
+Bats , Spear Goblins , Arrows , Royal Giant , Skeleton Army , Firecracker , Skeleton Barrel , Mega Knight , #809LGVYG , #8YRL8RVR2 , 5969 , 20220609T083443.000Z
+Bomber , Night Witch , Lightning , Mega Minion , Golem , Lumberjack , Baby Dragon , Tornado , #PRCJU2Y , #8YRL8RVR2 , 5983 , 20220609T083125.000Z
+Ice Golem , Royal Hogs , Hunter , Heal Spirit , Golden Knight , Royal Ghost , Barbarian Barrel , Three Musketeers , #2VVPGCRRC , #8YRL8RVR2 , 6072 , 20220609T082810.000Z
+Flying Machine , The Log , Furnace , Goblin Hut , Mega Knight , Cannon Cart , Fireball , Mother Witch , #QG9G0C2G , #8YRL8RVR2 , 6086 , 20220609T072001.000Z
+Spear Goblins , The Log , Skeletons , Earthquake , Hunter , Royal Hogs , Royal Delivery , Electro Spirit , #9U2UC9YUU , #8YRL8RVR2 , 5765 , 20220609T055923.000Z
+Mega Knight , Prince , Fireball , Archer Queen , Musketeer , Bandit , Tornado , Night Witch , #Y9CVP0P8L , #8YRL8RVR2 , 5499 , 20220609T055540.000Z
+Witch , Dart Goblin , Mega Knight , Goblin Barrel , Arrows , Bats , Fireball , Goblin Gang , #2229QYL2 , #8YRL8RVR2 , 5759 , 20220609T055252.000Z
+Electro Giant , Lightning , Bowler , Goblin Cage , Tornado , Mega Minion , Ice Wizard , Barbarian Barrel , #Y9Y9GJR0V , #8YRL8RVR2 , 6049 , 20220609T033420.000Z
+Giant , Witch , Fireball , Zap , Night Witch , Prince , Valkyrie , Dart Goblin , #9Y9U2RL8 , #8YRL8RVR2 , 6044 , 20220609T031502.000Z
+Royal Recruits , Firecracker , Executioner , Elite Barbarians , Barbarians , Witch , Goblin Barrel , Electro Wizard , #800LPUR88 , #8YRL8RVR2 , 5549 , 20220609T031331.000Z
+The Log , Elixir Collector , Three Musketeers , Mirror , Heal Spirit , Royal Ghost , Golden Knight , Elite Barbarians , #Y29CU2JR , #8YRL8RVR2 , 6028 , 20220609T003249.000Z
+Lumberjack , Balloon , Baby Dragon , Freeze , Bowler , Skeleton Army , Tornado , Inferno Dragon , #228JU00RQ , #8YRL8RVR2 , 6079 , 20220609T002854.000Z
+Giant , Minion Horde , Zap , Bats , Sparky , Skeleton Army , Arrows , Mini P.E.K.K.A , #8RQQVCLLL , #8YRL8RVR2 , 6034 , 20220609T002533.000Z
+Mega Knight , Bats , Prince , Miner , Inferno Dragon , Spear Goblins , Zap , Skeleton Barrel , #88UC29RPV , #8YRL8RVR2 , 6038 , 20220609T002213.000Z
+Lightning , Tornado , Royal Ghost , Golem , Electro Dragon , Night Witch , Mini P.E.K.K.A , Skeleton King , #Y20LUPJ2L , #P0JP2JR09 , 6022 , 20220609T215150.000Z
+The Log , Poison , Goblin Barrel , Wizard , Mega Minion , Ice Golem , Elite Barbarians , Cannon , #2PRULQ28P , #P0JP2JR09 , 5993 , 20220609T214809.000Z
+Mini P.E.K.K.A , Ice Wizard , The Log , Royal Giant , Goblin Barrel , Bomber , Knight , Dart Goblin , #PUUGV9QU , #P0JP2JR09 , 5973 , 20220609T183545.000Z
+Graveyard , Arrows , Skeleton Army , Fireball , Witch , Goblin Cage , Inferno Dragon , Giant , #PLV8PLPQC , #P0JP2JR09 , 6014 , 20220609T183138.000Z
+Mega Knight , Earthquake , Skeletons , Cannon , Hog Rider , Hunter , Zap , Magic Archer , #8RJV0U9Q , #P0JP2JR09 , 5981 , 20220609T182807.000Z
+Cannon Cart , Giant Snowball , Musketeer , Goblin Hut , Knight , Arrows , Ice Wizard , Graveyard , #YJVVUUG , #P0JP2JR09 , 5977 , 20220609T182435.000Z
+Minions , Giant Snowball , Skeleton Army , Graveyard , Arrows , Giant , Dark Prince , Archer Queen , #CCRVYRJJ , #P0JP2JR09 , 5978 , 20220609T182035.000Z
+Wizard , Bandit , Skeleton Army , Mini P.E.K.K.A , Giant Skeleton , Goblin Barrel , Bats , Arrows , #2VLL0J0VL , #P0JP2JR09 , 6037 , 20220609T181723.000Z
+Golem , Night Witch , Lumberjack , Baby Dragon , Skeleton Army , Bats , Clone , Lightning , #LGYGPGG , #P0JP2JR09 , 5987 , 20220609T181131.000Z
+Goblin Cage , Royal Recruits , Zappies , Flying Machine , Royal Hogs , Barbarian Barrel , Golden Knight , Arrows , #9JJL9P2RQ , #P0JP2JR09 , 6015 , 20220609T171454.000Z
+Ram Rider , Giant Snowball , Poison , P.E.K.K.A , Baby Dragon , Bandit , Electro Wizard , Barbarian Barrel , #89GGPLL9 , #P0JP2JR09 , 5977 , 20220609T171007.000Z
+Hog Rider , Mini P.E.K.K.A , Princess , Ice Golem , Bats , Electro Spirit , Rocket , The Log , #2YPP2JL90 , #P0JP2JR09 , 6006 , 20220609T170451.000Z
+Skeleton King , Fisherman , Mother Witch , Lightning , Zappies , The Log , Royal Giant , Skeleton Army , #228LR22Y , #P0JP2JR09 , 6035 , 20220609T163636.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #P0JP2JR09 , 5981 , 20220609T163234.000Z
+Fireball , P.E.K.K.A , Electro Wizard , Bandit , Battle Ram , Royal Ghost , Magic Archer , Zap , #2PC0UPLU , #P0JP2JR09 , 5971 , 20220609T162815.000Z
+Magic Archer , Wall Breakers , Valkyrie , Fireball , Spear Goblins , Miner , Tornado , Bomb Tower , #8QRUYP0R , #P0JP2JR09 , 5959 , 20220609T162405.000Z
+Bats , Hog Rider , Mega Knight , Furnace , Musketeer , Poison , Arrows , Valkyrie , #99RRCRJG , #2C2GVLR8 , 5896 , 20220609T203812.000Z
+Skeleton Army , Knight , Inferno Tower , Goblin Gang , Rocket , Goblin Barrel , Princess , Arrows , #29YRCRVGL , #2C2GVLR8 , 5927 , 20220609T203423.000Z
+Mega Knight , Inferno Dragon , Bats , Zap , Miner , P.E.K.K.A , Goblin Gang , Skeleton Barrel , #2L8R98CVL , #2C2GVLR8 , 5903 , 20220609T133647.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #2C2GVLR8 , 5953 , 20220609T133327.000Z
+Hog Rider , The Log , Tornado , Ice Spirit , Goblins , Valkyrie , Rocket , Executioner , #2R99GPCV , #2C2GVLR8 , 5911 , 20220609T090935.000Z
+Golem , Ice Golem , Zap , The Log , Elite Barbarians , Mega Minion , Elixir Collector , Musketeer , #Y20LRYJC , #2C2GVLR8 , 5840 , 20220609T071922.000Z
+The Log , Goblin Barrel , Tesla , Princess , Rocket , Dart Goblin , Knight , Skeleton Army , #RPG9Y20Y , #2C2GVLR8 , 5923 , 20220609T071649.000Z
+Electro Spirit , The Log , Goblin Barrel , Rocket , Skeletons , Princess , Tesla , Valkyrie , #P9VP8QPRU , #2C2GVLR8 , 5853 , 20220609T053807.000Z
+Barbarian Barrel , Tesla , P.E.K.K.A , Battle Ram , Fireball , Wizard , Zap , Bandit , #2902VQ9R8 , #2C2GVLR8 , 5889 , 20220609T053422.000Z
+The Log , Cannon , Ice Spirit , Ice Golem , Musketeer , Skeletons , Hog Rider , Fireball , #98PP20J0 , #2C2GVLR8 , 5884 , 20220608T202245.000Z
+Mighty Miner , Hog Rider , Arrows , Zap , Skeleton Army , P.E.K.K.A , Electro Wizard , Musketeer , #2RY2RPL2 , #2C2GVLR8 , 5873 , 20220608T201929.000Z
+Skeleton King , Wall Breakers , Skeleton Army , Dart Goblin , Inferno Tower , Goblin Drill , The Log , Fireball , #290LJP9GU , #2082J98QY , 5983 , 20220609T175116.000Z
+Skeletons , Tesla , Giant Snowball , Firecracker , Valkyrie , Hog Rider , Poison , The Log , #2U8VGRG9R , #2082J98QY , 5997 , 20220609T174756.000Z
+Bats , Royal Giant , Skeleton Army , Prince , Princess , Mega Knight , Goblin Barrel , Dart Goblin , #PG8UJC8 , #2082J98QY , 5945 , 20220609T174419.000Z
+Skeleton Army , Goblin Barrel , Dart Goblin , Knight , Mirror , The Log , Princess , Bandit , #2VQQ00QL0 , #2082J98QY , 5874 , 20220609T174225.000Z
+Baby Dragon , Arrows , Fire Spirit , Goblin Gang , P.E.K.K.A , Lightning , Electro Wizard , Lumberjack , #89922LCPR , #2082J98QY , 5924 , 20220609T174042.000Z
+Three Musketeers , Rage , Golden Knight , Heal Spirit , Arrows , Mirror , Elixir Collector , Elite Barbarians , #YCPULRYC , #2082J98QY , 5963 , 20220609T173729.000Z
+The Log , Zappies , Fisherman , Lightning , Hunter , Electro Spirit , Giant Skeleton , Royal Giant , #2UG8QV0J9 , #2082J98QY , 5942 , 20220609T173417.000Z
+Dart Goblin , Knight , The Log , Inferno Tower , Princess , Goblin Barrel , Skeleton Army , Skeleton Barrel , #P0Y8UG9PU , #2082J98QY , 5942 , 20220609T173113.000Z
+Knight , Ice Spirit , Skeletons , Archers , The Log , Tornado , Mortar , Rocket , #YRPPGCU , #2082J98QY , 5959 , 20220609T172803.000Z
+Mega Knight , Ram Rider , Giant Snowball , Guards , Bandit , Archer Queen , Lightning , Electro Wizard , #229CQY89 , #2082J98QY , 5953 , 20220609T172314.000Z
+Arrows , Lightning , Mini P.E.K.K.A , Electro Giant , Electro Wizard , Inferno Dragon , Furnace , Skeleton Army , #2GJ2YG0L , #2082J98QY , 5919 , 20220609T172022.000Z
+P.E.K.K.A , Wizard , Witch , Balloon , Giant , Arrows , Minions , Bomber , #2J9202L9P , #2082J98QY , 5955 , 20220609T171700.000Z
+Lumberjack , Balloon , Tornado , Barbarian Barrel , Inferno Dragon , Bowler , Electro Dragon , Freeze , #8Q2LVLLQ9 , #2082J98QY , 5992 , 20220609T171348.000Z
+The Log , Mini P.E.K.K.A , Fireball , Zappies , Fire Spirit , Giant Skeleton , Royal Giant , Goblin Cage , #22GJVRRJG , #2082J98QY , 5975 , 20220609T171034.000Z
+Arrows , Knight , Valkyrie , Wizard , Hog Rider , Prince , Witch , Skeleton Army , #9QPY2J8RV , #2082J98QY , 5982 , 20220609T170745.000Z
+Freeze , Graveyard , Bowler , Mini P.E.K.K.A , Inferno Dragon , The Log , Electro Wizard , Baby Dragon , #2J9L9CRL , #2082J98QY , 6037 , 20220609T170449.000Z
+Archer Queen , Hog Rider , Mega Knight , Poison , Zap , Bandit , Skeleton Army , Electro Wizard , #8V2PY220U , #2082J98QY , 5948 , 20220609T170129.000Z
+The Log , Cannon Cart , Electro Wizard , Goblin Drill , Bandit , Magic Archer , Dark Prince , Tornado , #P9QJGYJPU , #2082J98QY , 5996 , 20220609T165611.000Z
+Prince , Goblin Barrel , Dark Prince , The Log , Rascals , Princess , Dart Goblin , Rocket , #9C9UC2VG , #2082J98QY , 5969 , 20220609T165256.000Z
+Balloon , Mega Minion , Giant Skeleton , Freeze , Inferno Dragon , Lumberjack , Dart Goblin , Arrows , #2Q89JYJCQ , #2082J98QY , 5926 , 20220609T164934.000Z
+Elite Barbarians , Arrows , Musketeer , Rage , Hog Rider , Zap , Mini P.E.K.K.A , Skeleton Army , #JJCLJ80 , #2082J98QY , 5911 , 20220609T164624.000Z
+Giant , Bomber , Minion Horde , Musketeer , Princess , Rage , Skeleton Army , Poison , #L28889YL , #2082J98QY , 5937 , 20220609T164315.000Z
+Zap , Bowler , Wizard , Zappies , Mega Knight , Royal Hogs , The Log , Valkyrie , #9GC8CUVY , #2082J98QY , 5919 , 20220609T163907.000Z
+Mega Knight , Fireball , Zap , Electro Wizard , Elite Barbarians , Mega Minion , Hog Rider , The Log , #2ULU2VUJ8 , #2082J98QY , 5933 , 20220609T163554.000Z
+Lava Hound , Balloon , Skeleton Dragons , Mega Minion , Barbarians , Tombstone , Fireball , Zap , #9008PC98 , #2082J98QY , 5894 , 20220609T163456.000Z
+Golem , Mini P.E.K.K.A , Elite Barbarians , Arrows , Electro Dragon , Mega Minion , Tornado , Lightning , #9UPVPC9L9 , #U082PJVY , 5931 , 20220609T180435.000Z
+Barbarian Barrel , Royal Ghost , Ice Golem , Three Musketeers , Bandit , Royal Hogs , Hunter , Heal Spirit , #2RVGJJJ8 , #U082PJVY , 5901 , 20220609T135406.000Z
+The Log , Inferno Tower , Valkyrie , Guards , Princess , Goblin Barrel , Rocket , Electro Spirit , #VUV9RGR , #U082PJVY , 5929 , 20220609T135058.000Z
+Fireball , Giant Skeleton , Knight , Skeleton Army , Tornado , The Log , Wizard , Hog Rider , #9GRU08QV , #U082PJVY , 5957 , 20220609T134617.000Z
+Sparky , Goblin Giant , Mini P.E.K.K.A , Zap , Electro Wizard , Dark Prince , Mega Minion , Rage , #8L9QCRR2C , #U082PJVY , 6019 , 20220609T134100.000Z
+Mirror , Valkyrie , Princess , Bats , Knight , Archers , Bomber , Elite Barbarians , #2U0UGQ00Y , #U082PJVY , 5241 , 20220609T133734.000Z
+Knight , Giant , Musketeer , Baby Dragon , Rocket , Goblin Hut , Firecracker , Mini P.E.K.K.A , #UG9YQQVJ , #U082PJVY , 5300 , 20220609T133515.000Z
+Archers , Knight , Bats , Zap , Fireball , Inferno Tower , Hog Rider , The Log , #22JR9VJ8R , #U082PJVY , 5965 , 20220609T133227.000Z
+Ice Golem , Elixir Collector , Elite Barbarians , Three Musketeers , Heal Spirit , Royal Ghost , Barbarian Barrel , Bandit , #UPYQP99P , #U082PJVY , 5975 , 20220609T132830.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #U082PJVY , 5952 , 20220609T132456.000Z
+Goblin Giant , Sparky , Dark Prince , Mini P.E.K.K.A , Electro Wizard , Mega Minion , Rage , Zap , #2VJ8PPG9Q , #U082PJVY , 5908 , 20220609T132026.000Z
+Fireball , Arrows , Musketeer , Giant Skeleton , Goblin Hut , Flying Machine , Skeleton Barrel , Valkyrie , #PG8QYVCGU , #U082PJVY , 5854 , 20220609T131508.000Z
+Skeleton King , Fisherman , Mother Witch , Zappies , Fireball , Skeleton Army , Royal Giant , The Log , #YVLYJ80V , #U082PJVY , 5892 , 20220609T130949.000Z
+Lava Hound , Skeleton Dragons , Arrows , Miner , Barbarians , Goblin Cage , Flying Machine , Mega Minion , #222YJGYVJ , #U082PJVY , 5867 , 20220609T130621.000Z
+Three Musketeers , Goblin Giant , Sparky , Giant Snowball , Mirror , Mini P.E.K.K.A , Dark Prince , Barbarian Barrel , #2QCCRLU90 , #U082PJVY , 5849 , 20220609T130236.000Z
+X-Bow , Hog Rider , The Log , Mirror , Archers , Knight , Tesla , Mega Knight , #QUQ2J2RYG , #2Q02PLYL2 , 5209 , 20220609T213545.000Z
+Lava Hound , Balloon , Tombstone , Mega Minion , Fireball , Guards , Skeleton Dragons , Zap , #9CVUVUQ8Y , #P20CYYY8C , 5649 , 20220609T211844.000Z
+Arrows , Electro Giant , Witch , Flying Machine , Knight , Furnace , The Log , Tornado , #RLVJLJ82 , #2G2YUVJVG , 5459 , 20220609T211415.000Z
+Inferno Dragon , Poison , Giant , Electro Wizard , Dark Prince , Zap , Golden Knight , Dart Goblin , #9QULV8JQV , #2G2YUVJVG , 6203 , 20220609T210934.000Z
+Giant Skeleton , Dart Goblin , Skeleton Barrel , Valkyrie , Tornado , Ice Wizard , Executioner , Clone , #G9QUGY8 , #2G2YUVJVG , 5642 , 20220609T210527.000Z
+Mirror , Tombstone , The Log , Archers , Goblin Barrel , Mini P.E.K.K.A , Ice Spirit , Rocket , #28VU29LJR , #C802QY88 , 5421 , 20220609T202827.000Z
+Mirror , Tornado , Electro Giant , Dark Prince , Witch , Magic Archer , Mini P.E.K.K.A , Goblin Barrel , #809U0UG8 , #9J2G99GYJ , 5559 , 20220609T201835.000Z
+Giant Skeleton , Royal Ghost , Electro Wizard , Magic Archer , Tornado , Golden Knight , Goblin Drill , Cannon Cart , #GVGGGY0 , #2G2YUVJVG , 6009 , 20220609T201520.000Z
+Golden Knight , Barbarian Barrel , Ram Rider , Mega Knight , Inferno Dragon , Electro Wizard , Giant Snowball , Poison , #8C0G8U8P0 , #2RQGPPUG , 5435 , 20220609T201242.000Z
+Tornado , P.E.K.K.A , Firecracker , Electro Wizard , Ice Wizard , Mini P.E.K.K.A , Wizard , Bats , #R8PJ889 , #UPLURVUY , 5240 , 20220609T200727.000Z
+Electro Spirit , Dart Goblin , Goblin Barrel , Inferno Tower , The Log , Valkyrie , Rocket , Skeletons , #JPLPC89V , #2G2YUVJVG , 5950 , 20220609T200311.000Z
+Hog Rider , Executioner , Minions , Bandit , Tesla , Prince , Lumberjack , Arrows , #8Y8L8LC22 , #2G2YUVJVG , 5204 , 20220609T200009.000Z
+Mega Knight , Electro Wizard , Musketeer , Tesla , Freeze , Hog Rider , The Log , Skeleton Army , #PJV002LU , #2G2YUVJVG , 5854 , 20220609T195708.000Z
+Mighty Miner , Skeletons , Fire Spirit , Goblin Barrel , Princess , The Log , Rocket , Cannon , #R8YR2PP2P , #2G2YUVJVG , 6588 , 20220609T195220.000Z
+Fireball , Rascals , Inferno Tower , Valkyrie , Princess , Skeleton Army , Hog Rider , Goblin Barrel , #P2080P8RC , #2G2YUVJVG , 5676 , 20220609T194226.000Z
+Barbarian Barrel , Lightning , P.E.K.K.A , Royal Ghost , Bandit , Mother Witch , Electro Wizard , Ram Rider , #2QVQ0YVUQ , #GY0CUVRY , 5789 , 20220609T193918.000Z
+Bats , Royal Giant , Fisherman , Skeletons , Archer Queen , Giant Skeleton , Barbarian Barrel , Fireball , #2028CYPVJ , #2G2YUVJVG , 6006 , 20220609T193647.000Z
+Lava Hound , Flying Machine , Baby Dragon , Skeleton Army , Skeleton King , Fireball , Clone , Bats , #L992JLG , #2G2YUVJVG , 6419 , 20220609T193447.000Z
+The Log , Skeleton Army , Tesla , P.E.K.K.A , Firecracker , Ram Rider , Arrows , Valkyrie , #PR0UUVJLP , #2G2YUVJVG , 5825 , 20220609T193143.000Z
+Golem , Goblin Cage , Mega Minion , Barbarian Barrel , Baby Dragon , Night Witch , Tornado , Lightning , #9LY9GL2U , #29GYGRGPY , 5935 , 20220609T192826.000Z
+Lava Hound , Skeleton Army , Golden Knight , Baby Dragon , Lumberjack , Flying Machine , Bats , Clone , #9LUQ2CQCQ , #2G2YUVJVG , 5915 , 20220609T192329.000Z
+Baby Dragon , Prince , Witch , Electro Wizard , Golden Knight , The Log , Skeleton Army , Goblin Barrel , #90GPY8JPJ , #2G2YUVJVG , 5263 , 20220609T191259.000Z
+Skeleton Army , Electro Wizard , The Log , Inferno Tower , Fire Spirit , Fireball , Dart Goblin , Hog Rider , #8C9RQGGU2 , #2G2YUVJVG , 5647 , 20220609T190921.000Z
+Tesla , Fireball , Archers , X-Bow , The Log , Knight , Ice Spirit , Skeletons , #PYQCR8RLQ , #2G2YUVJVG , 5943 , 20220609T190535.000Z
+Musketeer , Knight , Mini P.E.K.K.A , Fireball , Ram Rider , Skeletons , Bats , The Log , #9LYYUQL9Q , #2G2YUVJVG , 5353 , 20220609T190212.000Z
+P.E.K.K.A , Electro Wizard , Royal Ghost , Poison , Battle Ram , Bandit , Magic Archer , Zap , #8VLLUCYL0 , #PQQQYU0V , 5478 , 20220609T214125.000Z
+Cannon Cart , Graveyard , Skeletons , Ice Wizard , Dark Prince , Tesla , Poison , The Log , #CRG92JUC , #PQQQYU0V , 5597 , 20220609T213812.000Z
+Magic Archer , Tornado , P.E.K.K.A , Electro Wizard , Zap , Skeleton Army , Graveyard , Freeze , #VYJ02LYU , #PQQQYU0V , 5622 , 20220609T213457.000Z
+Balloon , Ice Spirit , Fireball , Barbarian Barrel , Miner , Archers , Knight , Cannon , #LPY09VVQL , #PQQQYU0V , 5583 , 20220609T213140.000Z
+The Log , Princess , Goblin Barrel , Rocket , Knight , Inferno Tower , Ice Spirit , Goblin Gang , #RGLC2JCPY , #PQQQYU0V , 5589 , 20220609T212849.000Z
+Skeleton Barrel , Mini P.E.K.K.A , Firecracker , Bowler , Goblin Barrel , Skeleton Army , Arrows , Hunter , #QC8CRJ0U8 , #PQQQYU0V , 5431 , 20220609T212534.000Z
+Elite Barbarians , Executioner , Archers , Electro Wizard , Poison , Fire Spirit , The Log , Ice Wizard , #JRRQQRJJ , #PQQQYU0V , 5518 , 20220609T212227.000Z
+Balloon , Lava Hound , Guards , Poison , Hog Rider , Tesla , Lumberjack , Rocket , #QP8GY29PV , #PQQQYU0V , 5541 , 20220609T211912.000Z
+Archers , Knight , The Log , X-Bow , Skeletons , Tesla , Rocket , Electro Spirit , #RUCGGYJCC , #PQQQYU0V , 5553 , 20220609T211400.000Z
+Miner , Mini P.E.K.K.A , Archer Queen , Mirror , Giant , Tombstone , Giant Snowball , Skeleton Army , #RVJUY0GP8 , #PQQQYU0V , 5844 , 20220609T211046.000Z
+Mega Knight , Princess , Electro Wizard , Minions , The Log , Skeleton Army , Dark Prince , Goblin Barrel , #QQ8UCUJVY , #PQQQYU0V , 5617 , 20220609T210524.000Z
+Ice Spirit , Bomber , Giant Skeleton , Electro Spirit , Skeletons , Tornado , Fire Spirit , Mirror , #PLVCPPJG , #PQQQYU0V , 5724 , 20220609T210332.000Z
+Skeleton Army , Giant , Graveyard , Giant Snowball , Bats , Arrows , Witch , Dark Prince , #892GC22PV , #PQQQYU0V , 5600 , 20220609T210123.000Z
+Arrows , Skeleton Army , Skeleton King , Poison , Tombstone , Goblin Barrel , Firecracker , Dart Goblin , #99PY9C2L8 , #PQQQYU0V , 5626 , 20220609T181805.000Z
+Ice Spirit , Mirror , Heal Spirit , Electro Spirit , Skeletons , Fire Spirit , Dart Goblin , Arrows , #YU02JRR0 , #PQQQYU0V , 5634 , 20220609T181209.000Z
+Tesla , Goblin Barrel , Goblin Gang , Princess , The Log , Rocket , Wall Breakers , Valkyrie , #YLC28JVYY , #PQQQYU0V , 5253 , 20220609T180907.000Z
+Skeleton Army , Elite Barbarians , Inferno Tower , Witch , Goblin Barrel , The Log , Mega Knight , Mini P.E.K.K.A , #L8G02000Q , #PQQQYU0V , 5066 , 20220609T180706.000Z
+Executioner , The Log , Dark Prince , Bomber , Bandit , Knight , Wizard , Guards , #Q8CVP2Y8Y , #PQQQYU0V , 5162 , 20220609T180349.000Z
+Tesla , Hunter , Furnace , Goblin Drill , Musketeer , Mini P.E.K.K.A , Skeleton Barrel , Zappies , #P9PRY2J2G , #PQQQYU0V , 5696 , 20220609T180119.000Z
+Barbarian Barrel , Elite Barbarians , Elixir Collector , Ice Golem , Heal Spirit , Mirror , Royal Ghost , Three Musketeers , #8QG8P2GU , #PQQQYU0V , 5629 , 20220609T175938.000Z
+Skeleton Army , Valkyrie , Wizard , Lumberjack , Clone , Furnace , Fireball , Mega Knight , #P98P2808 , #PQQQYU0V , 5302 , 20220609T175626.000Z
+Mortar , Guards , Miner , The Log , Fireball , Minion Horde , Dart Goblin , Cannon Cart , #Y0GC9PGYC , #PQQQYU0V , 5612 , 20220609T175359.000Z
+Archers , The Log , Tornado , Magic Archer , Knight , Tesla , Wall Breakers , Miner , #U8CGYGU99 , #PQQQYU0V , 5204 , 20220609T175038.000Z
+Goblin Giant , Zap , P.E.K.K.A , Goblin Gang , Dart Goblin , Arrows , Skeletons , The Log , #PPVURGLRL , #PQQQYU0V , 5359 , 20220609T174812.000Z
+Dark Prince , Fisherman , Skeletons , Hunter , Lightning , Royal Giant , Electro Spirit , The Log , #U2RU29L , #9LLLYGV0 , 5843 , 20220609T091742.000Z
+Royal Hogs , The Log , Fireball , Flying Machine , Golden Knight , Goblin Cage , Zappies , Royal Recruits , #LCQQQQ2RV , #9LLLYGV0 , 5839 , 20220609T091249.000Z
+Mother Witch , Fireball , Royal Giant , Fisherman , Bats , The Log , Skeletons , Skeleton King , #QR889J0 , #9LLLYGV0 , 5760 , 20220609T091025.000Z
+Rocket , Mini P.E.K.K.A , Firecracker , Electro Giant , Night Witch , Ram Rider , Zap , Arrows , #CLJ02QP0 , #9LLLYGV0 , 5838 , 20220609T090713.000Z
+Hog Rider , Ice Golem , Cannon , Fireball , Ice Spirit , Skeletons , Musketeer , The Log , #QCVJ8GPUC , #9LLLYGV0 , 5859 , 20220609T090432.000Z
+Golem , Tombstone , Lightning , Executioner , Mega Minion , Skeleton Army , Minions , Zap , #Y0202LL2 , #9LLLYGV0 , 5815 , 20220609T090104.000Z
+Golden Knight , The Log , Giant , Skeleton Army , Electro Wizard , Rage , Elite Barbarians , Heal Spirit , #JVLY0PJ , #9LLLYGV0 , 5797 , 20220609T085610.000Z
+Royal Giant , Fisherman , Hunter , Earthquake , The Log , Firecracker , Electro Spirit , Royal Ghost , #8UQVRRV2 , #9LLLYGV0 , 5818 , 20220609T085307.000Z
+Electro Giant , Goblin Cage , Inferno Dragon , Bomber , Mother Witch , Dark Prince , Tornado , Lightning , #2JUCQUCL , #9LLLYGV0 , 5782 , 20220609T084953.000Z
+Golem , Zap , The Log , Lumberjack , Goblin Gang , Minion Horde , Elite Barbarians , Wizard , #CPCUUL22 , #9LLLYGV0 , 5780 , 20220609T084641.000Z
+Baby Dragon , Poison , Valkyrie , Tornado , Graveyard , Tombstone , Barbarian Barrel , Archer Queen , #88VV00L0 , #9LLLYGV0 , 5761 , 20220609T084238.000Z
+Archer Queen , Electro Giant , Bomber , Mirror , Dark Prince , Lightning , Cannon , Tornado , #LVQR2UPJ , #9LLLYGV0 , 5839 , 20220609T083917.000Z
+Electro Wizard , Inferno Tower , Dark Prince , Arrows , Prince , Wizard , Miner , Fireball , #2QUGUGJQJ , #9LLLYGV0 , 5842 , 20220609T083509.000Z
+X-Bow , Tesla , Fireball , The Log , Archers , Knight , Ice Spirit , Skeletons , #QP9YCUGCU , #9LLLYGV0 , 5845 , 20220609T082952.000Z
+Valkyrie , Firecracker , Hog Rider , Skeletons , Ice Spirit , Earthquake , Tesla , The Log , #2V29UVL20 , #9LLLYGV0 , 5906 , 20220609T082434.000Z
+Electro Wizard , Bandit , Magic Archer , Royal Ghost , P.E.K.K.A , Fireball , Zap , Battle Ram , #GYL00YC0J , #9LLLYGV0 , 5917 , 20220609T082105.000Z
+Skeletons , Valkyrie , Cannon , The Log , Fire Spirit , Princess , Goblin Barrel , Rocket , #CR82VCR , #9LLLYGV0 , 5945 , 20220609T081753.000Z
+Mega Knight , Bandit , Tombstone , Arrows , Fireball , Hunter , Magic Archer , Goblin Drill , #PRGJ88RR9 , #9LLLYGV0 , 5962 , 20220609T081443.000Z
+Lava Hound , Balloon , Arrows , Giant Snowball , Skeleton Dragons , Heal Spirit , Mega Minion , Valkyrie , #2CG80GJP , #9LLLYGV0 , 6004 , 20220609T081040.000Z
+P.E.K.K.A , Electro Spirit , Skeletons , Hog Rider , Musketeer , Zap , Electro Wizard , Tornado , #RVV809GQ , #9LLLYGV0 , 5939 , 20220609T080648.000Z
+Lava Hound , Zap , Tombstone , Mega Minion , Balloon , Skeleton Dragons , Fireball , Valkyrie , #2VRVRJR0 , #9LLLYGV0 , 6016 , 20220609T080307.000Z
+Balloon , Zap , Freeze , P.E.K.K.A , Baby Dragon , Lumberjack , Electro Wizard , Dark Prince , #Y2CJC98VV , #9LLLYGV0 , 6034 , 20220609T075901.000Z
+Mega Knight , Wall Breakers , Bats , Skeleton Barrel , Goblin Drill , Golden Knight , Barbarian Barrel , Firecracker , #9PQV9VGQC , #9LLLYGV0 , 6004 , 20220609T064525.000Z
+The Log , Flying Machine , Knight , Barbarian Hut , Electro Wizard , Baby Dragon , Poison , Graveyard , #8LLUGL9C , #9LLLYGV0 , 5963 , 20220609T064043.000Z
+Giant Skeleton , Musketeer , Tornado , Lumberjack , Fireball , Ram Rider , Baby Dragon , Arrows , #2UCJQQJRL , #9LLLYGV0 , 5948 , 20220609T063818.000Z
+Mega Knight , Inferno Dragon , Skeleton Army , Golden Knight , Mirror , Tornado , Goblin Barrel , Zap , #808QRQQRU , #8Q9J2GU8C , 5999 , 20220609T154423.000Z
+Graveyard , Rascals , Freeze , Goblin Gang , Giant Skeleton , Bats , Witch , Battle Ram , #9JL2Y2UGG , #8Q9J2GU8C , 5982 , 20220609T154049.000Z
+Skeletons , Mother Witch , Electro Giant , Inferno Dragon , Goblin Cage , Tornado , Bomber , Lightning , #P9LJQPLGG , #8Q9J2GU8C , 5993 , 20220609T152835.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #8Q9J2GU8C , 5946 , 20220609T042321.000Z
+Skeleton Barrel , The Log , Skeleton Army , Dart Goblin , Goblin Barrel , Knight , Inferno Tower , Princess , #2GJ82QJ0G , #8Q9J2GU8C , 6538 , 20220604T160821.000Z
+Ice Golem , Hog Rider , Musketeer , Cannon , Ice Spirit , Skeletons , The Log , Fireball , #89CVL2RQQ , #8Q9J2GU8C , 6594 , 20220604T160452.000Z
+P.E.K.K.A , Electro Wizard , Royal Ghost , Bandit , Battle Ram , Magic Archer , Zap , Fireball , #9JGVVG0P0 , #8Q9J2GU8C , 6614 , 20220604T155753.000Z
+P.E.K.K.A , Battle Ram , Bandit , Magic Archer , Royal Ghost , Poison , Zap , Electro Wizard , #YLL088JLR , #8Q9J2GU8C , 6621 , 20220603T212442.000Z
+Bandit , Magic Archer , Electro Wizard , Royal Ghost , Battle Ram , Zap , P.E.K.K.A , Fireball , #RQG2828LC , #8Q9J2GU8C , 6563 , 20220603T212107.000Z
+Freeze , Balloon , Valkyrie , Mini P.E.K.K.A , Zap , Inferno Dragon , Executioner , Rage , #8YGPRRR9Y , #88CGQQCG0 , 5798 , 20220609T144215.000Z
+Royal Delivery , Royal Hogs , Musketeer , Fireball , Skeletons , Ice Spirit , Cannon , The Log , #2VGJ09QLC , #88CGQQCG0 , 5794 , 20220609T060435.000Z
+The Log , Inferno Tower , Valkyrie , Guards , Princess , Goblin Barrel , Rocket , Electro Spirit , #28YYL9QR2 , #88CGQQCG0 , 5808 , 20220609T060124.000Z
+Knight , Musketeer , Goblin Gang , Royal Delivery , Mortar , Skeleton Barrel , Fireball , The Log , #L2VCRJU0 , #88CGQQCG0 , 5856 , 20220609T055809.000Z
+Hog Rider , Musketeer , Giant Skeleton , Cannon , Skeletons , Ice Spirit , Fireball , The Log , #998CJ08QC , #88CGQQCG0 , 5884 , 20220609T025135.000Z
+Princess , Baby Dragon , Rascals , Lightning , Mirror , The Log , Goblin Barrel , Inferno Tower , #G2UQJUG , #88CGQQCG0 , 5885 , 20220609T024954.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #88CGQQCG0 , 5917 , 20220609T024631.000Z
+Rocket , Rage , Minion Horde , Balloon , Mirror , Skeleton Army , Witch , Prince , #8JCJRPVPR , #88CGQQCG0 , 5925 , 20220609T024252.000Z
+Mega Knight , Ram Rider , Inferno Dragon , Giant Snowball , Barbarian Barrel , Electro Wizard , Fireball , Bandit , #QQQVYU99 , #88CGQQCG0 , 5919 , 20220609T024023.000Z
+Inferno Dragon , Dark Prince , Arrows , Lumberjack , Mega Knight , Bats , Zap , Electro Wizard , #8L2L8222L , #88CGQQCG0 , 5856 , 20220609T023709.000Z
+Bandit , Barbarian Barrel , Barbarians , Bats , Archer Queen , Elixir Collector , Royal Hogs , Giant Snowball , #2LVL8U28Y , #88CGQQCG0 , 5830 , 20220609T023426.000Z
+Valkyrie , Hog Rider , Zap , Dart Goblin , Bats , P.E.K.K.A , Arrows , Electro Wizard , #80GG208JQ , #88CGQQCG0 , 5885 , 20220609T023111.000Z
+The Log , Princess , Inferno Tower , Rocket , Ice Spirit , Goblin Gang , Valkyrie , Goblin Barrel , #PUJC82QL , #88CGQQCG0 , 5923 , 20220609T022657.000Z
+P.E.K.K.A , Ram Rider , Barbarian Barrel , Bandit , Baby Dragon , Electro Wizard , Lightning , Giant Snowball , #PR02PGCQ2 , #88CGQQCG0 , 5896 , 20220609T013308.000Z
+Golem , Golden Knight , Night Witch , Skeleton Dragons , Skeletons , Lightning , Bats , The Log , #9VYQCPPU0 , #88CGQQCG0 , 5907 , 20220608T172534.000Z
+Lava Hound , Miner , Goblin Cage , Mega Minion , Arrows , Skeleton Dragons , Flying Machine , Barbarians , #2UL98RVQ , #88CGQQCG0 , 5905 , 20220608T172220.000Z
+Royal Hogs , Archer Queen , Cannon , Royal Delivery , Earthquake , The Log , Skeletons , Fire Spirit , #8G9VLJRR9 , #88CGQQCG0 , 5913 , 20220608T171905.000Z
+Skeletons , Ice Spirit , Firecracker , Tesla , Valkyrie , Hog Rider , Earthquake , The Log , #Y9GCQVU0L , #88CGQQCG0 , 5849 , 20220608T171547.000Z
+Elixir Golem , Battle Healer , Baby Dragon , Electro Dragon , Rage , Tornado , Barbarian Barrel , Elite Barbarians , #8UU0QPG8 , #88CGQQCG0 , 5895 , 20220608T171203.000Z
+X-Bow , Mirror , Tornado , Sparky , Poison , Giant Skeleton , Guards , Tesla , #8PJV8YPP , #88CGQQCG0 , 5829 , 20220608T170836.000Z
+Valkyrie , Barbarian Barrel , Baby Dragon , Poison , Tornado , Tombstone , Ice Wizard , Graveyard , #98LQLPP8Q , #88CGQQCG0 , 5863 , 20220608T170519.000Z
+Mega Knight , Fisherman , Firecracker , Electro Wizard , Skeleton Army , Goblin Barrel , Skeleton Barrel , The Log , #8YRL8UVQG , #RQLC2RQL , 5811 , 20220609T220448.000Z
+Zap , Hog Rider , Mega Knight , Tesla , The Log , Skeleton Army , Firecracker , Knight , #Y82YCG8GC , #RQLC2RQL , 5838 , 20220609T201424.000Z
+Minion Horde , Giant , Dark Prince , Sparky , Elixir Collector , The Log , Mini P.E.K.K.A , Wizard , #V892YY9 , #RQLC2RQL , 5844 , 20220609T200903.000Z
+Fisherman , Dart Goblin , Skeletons , The Log , Ice Spirit , Bowler , Royal Giant , Zap , #YGGLUQ9R , #RQLC2RQL , 5836 , 20220609T200430.000Z
+Witch , Rocket , Mirror , Dart Goblin , Hog Rider , Goblin Barrel , The Log , Mini P.E.K.K.A , #LYLQQQY , #PQYURJP2U , 5229 , 20220609T152115.000Z
+Fireball , Electro Wizard , Minion Horde , Hog Rider , Furnace , Magic Archer , Balloon , Giant Skeleton , #Y9R9U8QPQ , #RQLC2RQL , 5415 , 20220609T151733.000Z
+Fireball , Mini P.E.K.K.A , Tesla , Skeletons , Magic Archer , Musketeer , Arrows , Mega Knight , #PL9CULGR2 , #RQLC2RQL , 5359 , 20220609T151323.000Z
+Hog Rider , Archer Queen , Fisherman , Mini P.E.K.K.A , P.E.K.K.A , Tesla , Arrows , Mirror , #PRPJR9G20 , #RQLC2RQL , 5274 , 20220609T150745.000Z
+Heal Spirit , Three Musketeers , Elixir Collector , Elite Barbarians , Bandit , Mighty Miner , Zap , Magic Archer , #2L2PVYVQ , #RQLC2RQL , 5470 , 20220609T150350.000Z
+Knight , Dart Goblin , Musketeer , Bomber , Royal Giant , Mini P.E.K.K.A , The Log , Zap , #2JCUU2YL , #RQLC2RQL , 5243 , 20220609T140732.000Z
+Rage , Graveyard , Giant , Freeze , Skeleton Army , Executioner , Bowler , Minion Horde , #G002LPCU , #RQLC2RQL , 5587 , 20220609T123401.000Z
+Electro Giant , Battle Healer , Wizard , Mother Witch , Earthquake , Skeleton Army , Magic Archer , Fisherman , #L0RG2G9V8 , #PRPRVRC , 5321 , 20220609T123001.000Z
+Firecracker , Tornado , Skeletons , Hog Rider , Ice Spirit , The Log , Valkyrie , Tesla , #GVJ9U0LJ , #RQLC2RQL , 5768 , 20220609T024928.000Z
+Mortar , Bats , Guards , Valkyrie , Poison , The Log , Musketeer , Miner , #8J92G8JQ , #RQLC2RQL , 5830 , 20220609T024609.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #RQLC2RQL , 5891 , 20220609T024225.000Z
+Wizard , Balloon , Bats , Skeleton Army , Mini P.E.K.K.A , Valkyrie , Giant Skeleton , Arrows , #9YVP8LRJV , #RQLC2RQL , 5825 , 20220609T023906.000Z
+The Log , Ice Golem , Musketeer , Hog Rider , Cannon , Skeletons , Fireball , Ice Spirit , #8RLLGPYJJ , #RQLC2RQL , 5494 , 20220609T015003.000Z
+Lumberjack , Giant Skeleton , Balloon , Witch , Electro Wizard , Wizard , Zap , Bandit , #LQY0UYLLU , #RQLC2RQL , 5397 , 20220609T012754.000Z
+Giant , Bats , Arrows , Zap , Spear Goblins , Sparky , Minion Horde , Mini P.E.K.K.A , #2LG9LQPR , #9P9Q8R802 , 5697 , 20220609T064042.000Z
+Skeleton King , P.E.K.K.A , Tesla , Fireball , The Log , Magic Archer , Barbarian Barrel , Electro Wizard , #LJRY82PP , #8VG820CYQ , 5770 , 20220609T063720.000Z
+Bomber , Electro Giant , Tombstone , Golden Knight , Inferno Dragon , Lightning , Mother Witch , Tornado , #PLGYGQRPU , #8VG820CYQ , 5396 , 20220609T063253.000Z
+Mirror , Giant Skeleton , Fireball , The Log , Mini P.E.K.K.A , Night Witch , Furnace , Electro Wizard , #JLYJ9UYJ , #8VG820CYQ , 5430 , 20220609T062941.000Z
+Inferno Tower , Electro Wizard , Valkyrie , Ice Wizard , Skeleton Army , Hog Rider , Fireball , Freeze , #2Y0R0PVJ , #8VG820CYQ , 5452 , 20220609T062619.000Z
+Mega Knight , Magic Archer , Mirror , Lightning , Hog Rider , Dart Goblin , Arrows , Goblin Gang , #8QRJLJ080 , #9P0J88V , 5665 , 20220609T062225.000Z
+Fireball , Giant Skeleton , Wizard , Goblin Barrel , Tesla , Dart Goblin , Executioner , Valkyrie , #LPRC9U9J , #80R8YVGPQ , 5373 , 20220609T062004.000Z
+P.E.K.K.A , Electro Wizard , Ram Rider , The Log , Executioner , Tesla , Zap , Fireball , #89RJ9RCCL , #2QPRYJVPY , 5602 , 20220609T061600.000Z
+P.E.K.K.A , Bowler , Electro Wizard , Arrows , Mega Knight , Lightning , Prince , Giant , #8J0Q0QV2Y , #8VG820CYQ , 5858 , 20220609T061133.000Z
+Royal Giant , Skeleton Army , Arrows , Mega Knight , Bomber , Barbarians , Wizard , Bats , #PYL288RQ , #8VG820CYQ , 5839 , 20220609T034114.000Z
+Zap , Barbarian Barrel , Musketeer , Wall Breakers , Bandit , Bats , Mega Knight , Miner , #P0Y8RYR8U , #8VG820CYQ , 5815 , 20220609T033802.000Z
+Freeze , Hog Rider , Skeleton Army , Valkyrie , Wizard , Poison , Minions , Witch , #C0VVPG , #8VG820CYQ , 5833 , 20220609T033404.000Z
+Musketeer , Royal Ghost , Ice Wizard , Princess , The Log , Goblin Barrel , Hog Rider , Skeleton Army , #Y9QPJ908 , #8VG820CYQ , 5800 , 20220609T033001.000Z
+Night Witch , Electro Wizard , Skeleton Army , Bats , Tesla , Golem , Arrows , The Log , #8Q98GQVJY , #8VG820CYQ , 5811 , 20220609T032621.000Z
+Skeleton Barrel , Bandit , Valkyrie , Firecracker , Tesla , Hog Rider , Fireball , The Log , #P2J2R0R9 , #8VG820CYQ , 5852 , 20220609T032441.000Z
+Knight , Royal Hogs , Valkyrie , Mirror , Three Musketeers , Furnace , Bats , Minions , #8VLLGPLC , #8VG820CYQ , 5779 , 20220609T032118.000Z
+Royal Giant , Tornado , Wizard , Lightning , Inferno Tower , Bowler , The Log , Zap , #PPGCYL9J , #8VG820CYQ , 5775 , 20220609T031620.000Z
+Electro Giant , Mega Knight , Lightning , Firecracker , Skeletons , Tornado , Cannon , Mega Minion , #YJVCYYCL , #8VG820CYQ , 5807 , 20220609T031309.000Z
+Goblin Barrel , Poison , Valkyrie , Tesla , Skeleton Barrel , Mini P.E.K.K.A , Dart Goblin , The Log , #20QQPRGY8 , #8VG820CYQ , 5824 , 20220609T030924.000Z
+Princess , The Log , Knight , Inferno Tower , Goblin Barrel , Skeleton Barrel , Dart Goblin , Skeleton Army , #Y0Y22VJU , #8VG820CYQ , 5851 , 20220609T030425.000Z
+P.E.K.K.A , Magic Archer , Electro Wizard , Battle Ram , Royal Ghost , Bandit , Zap , Fireball , #RJ2QQUGU , #8VG820CYQ , 5821 , 20220609T024854.000Z
+Hog Rider , Lightning , Wizard , Cannon , Archers , Bomber , Lumberjack , Elite Barbarians , #9GLVC9V , #8VG820CYQ , 5797 , 20220609T024504.000Z
+Minion Horde , Lightning , Electro Wizard , Electro Giant , Skeleton Army , Balloon , Valkyrie , Wizard , #8RJPJPLR2 , #8VG820CYQ , 5848 , 20220609T024216.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #8VG820CYQ , 5863 , 20220609T023907.000Z
+Knight , Goblin Barrel , Skeleton Barrel , Musketeer , Electro Spirit , Fireball , Skeletons , Giant Skeleton , #PCG8929J , #8VG820CYQ , 5698 , 20220608T143923.000Z
+Lightning , Hog Rider , Firecracker , Valkyrie , The Log , Ice Spirit , Tesla , Skeletons , #8VJQJJRYJ , #9GCRVLGL , 5824 , 20220609T214404.000Z
+Cannon Cart , Fireball , The Log , Dart Goblin , Mortar , Miner , Guards , Minion Horde , #2PQP29PR0 , #9GCRVLGL , 5797 , 20220609T213931.000Z
+Mirror , Electro Giant , Tornado , Guards , Earthquake , Firecracker , Bats , Tesla , #8P9G0280 , #9GCRVLGL , 5828 , 20220609T213610.000Z
+Golem , Arrows , Musketeer , Valkyrie , The Log , Witch , Hog Rider , Mini P.E.K.K.A , #2LJQJGR9V , #9GCRVLGL , 5790 , 20220609T145338.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #9GCRVLGL , 5835 , 20220608T173939.000Z
+Furnace , Flying Machine , Cannon Cart , Bandit , Goblin Barrel , Mega Knight , Arrows , Dark Prince , #9R02QYPVQ , #9GCRVLGL , 5799 , 20220608T112828.000Z
+Arrows , Barbarian Barrel , Goblin Barrel , Mini P.E.K.K.A , Minions , Guards , Fireball , Dark Prince , #98L8L0Q2R , #9GCRVLGL , 5780 , 20220608T112506.000Z
+Elite Barbarians , Minions , Mega Knight , Bats , Lumberjack , Hog Rider , Archers , Mirror , #8RGL8PVQQ , #9GCRVLGL , 5750 , 20220608T111925.000Z
+Fireball , Royal Hogs , Royal Recruits , Goblin Cage , Zappies , Barbarian Barrel , Flying Machine , Arrows , #20PGLY0 , #9GCRVLGL , 5771 , 20220607T181020.000Z
+Mini P.E.K.K.A , Electro Wizard , Barbarians , Skeleton Army , Baby Dragon , Fireball , Rage , Balloon , #2UC0LUU2V , #9GCRVLGL , 5719 , 20220607T180609.000Z
+Lightning , Elixir Golem , Electro Dragon , Firecracker , Battle Healer , Goblin Cage , Tornado , Knight , #9L9VUYPCQ , #9GCRVLGL , 5714 , 20220607T180240.000Z
+Giant Skeleton , Skeleton King , Night Witch , Baby Dragon , Skeleton Army , Lightning , Tornado , Barbarian Barrel , #RQ99920V , #9GCRVLGL , 5670 , 20220607T175901.000Z
+Ice Wizard , Mini P.E.K.K.A , Fireball , The Log , Firecracker , Hog Rider , Valkyrie , Tombstone , #VCL2YUUV , #9GCRVLGL , 6108 , 20220605T140034.000Z
+Princess , Goblin Barrel , Goblin Gang , The Log , Valkyrie , Ice Spirit , Inferno Tower , Rocket , #2VYY0Q9U , #9GCRVLGL , 6101 , 20220605T135436.000Z
+Goblin Barrel , Furnace , Skeleton Army , Miner , Minion Horde , Princess , The Log , Inferno Tower , #200GPPLLP , #9GCRVLGL , 6147 , 20220605T135044.000Z
+Bats , Goblin Barrel , Arrows , Skeleton Army , Skeleton Barrel , Firecracker , Inferno Tower , Mega Knight , #LLYV2QVGG , #9GCRVLGL , 6205 , 20220605T131632.000Z
+Zap , Minion Horde , Musketeer , Hog Rider , Valkyrie , Prince , Skeleton Army , Princess , #CV80UU8 , #9GCRVLGL , 6191 , 20220605T131207.000Z
+Zap , P.E.K.K.A , Electro Wizard , Prince , Mother Witch , Poison , Mini P.E.K.K.A , Executioner , #20R0LPVJV , #9GCRVLGL , 6167 , 20220603T144603.000Z
+Giant Skeleton , Cannon Cart , Clone , Skeleton Barrel , Ice Spirit , Baby Dragon , Tornado , Furnace , #GUJRU08Y , #9GCRVLGL , 6107 , 20220603T143751.000Z
+Bats , P.E.K.K.A , Minions , Lightning , Mega Knight , Electro Wizard , Witch , Zap , #2R8RVJG0R , #9GCRVLGL , 6131 , 20220603T140819.000Z
+Mini P.E.K.K.A , Freeze , Electro Wizard , Hog Rider , Wizard , Valkyrie , Witch , Arrows , #8VJLVCYPV , #8L9PR0LVL , 5702 , 20220609T220425.000Z
+Zap , Fireball , Valkyrie , Arrows , Electro Wizard , Wizard , Giant Skeleton , Hog Rider , #2PQRJLGLY , #8L9PR0LVL , 5659 , 20220609T204715.000Z
+Giant Skeleton , Clone , Goblin Gang , The Log , Skeleton Barrel , Hog Rider , Dart Goblin , Fireball , #PUJ00GJPU , #8L9PR0LVL , 5646 , 20220609T204404.000Z
+Zap , P.E.K.K.A , Bats , Valkyrie , Fireball , Hog Rider , Wizard , Archers , #2QLVLRR0 , #8L9PR0LVL , 5627 , 20220609T204013.000Z
+P.E.K.K.A , Valkyrie , Skeleton Army , Minion Horde , Bats , Zap , Fireball , Prince , #99LRGJVJV , #8L9PR0LVL , 5651 , 20220609T203035.000Z
+Goblin Barrel , Knight , Ice Spirit , Dart Goblin , Tesla , Rocket , The Log , Princess , #2JRQRP99 , #8L9PR0LVL , 5642 , 20220609T202716.000Z
+Mega Knight , Electro Wizard , Inferno Dragon , Royal Ghost , Arrows , Baby Dragon , Skeleton Army , Archers , #82U9UUPGV , #8L9PR0LVL , 5649 , 20220609T202313.000Z
+Fireball , Electro Wizard , Magic Archer , P.E.K.K.A , Dark Prince , Bandit , Zap , Skeletons , #8G0CRRPQY , #8L9PR0LVL , 5636 , 20220609T201550.000Z
+Bats , Goblin Gang , Skeleton Barrel , Dart Goblin , Firecracker , Goblin Cage , Mega Knight , Goblin Barrel , #8C08U0P29 , #8L9PR0LVL , 5699 , 20220609T200457.000Z
+Prince , Dark Prince , Minions , Dart Goblin , Barbarian Barrel , Goblin Barrel , Mega Knight , Zap , #PP00UUPL , #8L9PR0LVL , 5666 , 20220609T200146.000Z
+Fireball , Electro Wizard , Dark Prince , Zap , Giant , Prince , Miner , Mega Minion , #YRYVVPVL , #8L9PR0LVL , 5606 , 20220609T195835.000Z
+Baby Dragon , Valkyrie , Goblin Barrel , Mini P.E.K.K.A , Skeleton Army , Arrows , Witch , Hog Rider , #8RPJ8UV2J , #8L9PR0LVL , 5653 , 20220609T194017.000Z
+Giant , Balloon , Fire Spirit , Valkyrie , Freeze , Arrows , Skeleton Army , Minions , #98UCU2GV , #8L9PR0LVL , 5682 , 20220609T193645.000Z
+Elixir Golem , Battle Healer , Inferno Dragon , Arrows , The Log , Electro Dragon , Rage , Elite Barbarians , #8Y80V9GV , #8L9PR0LVL , 5714 , 20220609T193233.000Z
+The Log , Poison , Hog Rider , Prince , Electro Wizard , Skeleton Barrel , Skeletons , Tesla , #2CP08289 , #8L9PR0LVL , 5744 , 20220609T192903.000Z
+Arrows , Valkyrie , Wizard , Hog Rider , Tornado , Giant Skeleton , Witch , Skeleton Army , #2U2Y9LY2P , #8L9PR0LVL , 5764 , 20220609T192553.000Z
+Goblin Drill , Mini P.E.K.K.A , Mega Knight , Wizard , Executioner , Electro Dragon , Mirror , Arrows , #8CQ0GUL29 , #8L9PR0LVL , 5762 , 20220609T191820.000Z
+Dart Goblin , Mini P.E.K.K.A , Valkyrie , Tesla , Goblin Gang , Goblin Barrel , Wall Breakers , The Log , #CLU0ULGP , #8L9PR0LVL , 5827 , 20220609T191509.000Z
+Archer Queen , Electro Spirit , Skeletons , Hog Rider , Giant Skeleton , Tesla , The Log , Poison , #P22GQRJY , #8L9PR0LVL , 5864 , 20220609T182224.000Z
+Balloon , Bats , Fisherman , Giant Skeleton , Hunter , Miner , Skeletons , Giant Snowball , #P2CPQP9U2 , #8L9PR0LVL , 5836 , 20220609T181825.000Z
+Skeletons , Electro Spirit , Royal Delivery , Inferno Tower , Rocket , Dark Prince , The Log , Miner , #2VPRUGRLG , #8L9PR0LVL , 5811 , 20220609T181024.000Z
+P.E.K.K.A , Tornado , Executioner , Goblin Barrel , Hog Rider , The Log , Electro Wizard , Bats , #2UVVC80YL , #8L9PR0LVL , 5790 , 20220609T172345.000Z
+Barbarian Barrel , Cannon Cart , Electro Wizard , Goblin Drill , Golden Knight , Magic Archer , Royal Ghost , Tornado , #2URJJ8QUY , #8L9PR0LVL , 5738 , 20220609T172010.000Z
+Hog Rider , P.E.K.K.A , Tombstone , Lightning , The Log , Knight , Tornado , Executioner , #2GUQC9QR , #29R8JQCR8 , 5983 , 20220609T124810.000Z
+Furnace , Goblin Cage , Mother Witch , Royal Recruits , Skeleton Barrel , Bowler , Cannon Cart , Hunter , #QYCJCP9Y , #29R8JQCR8 , 5920 , 20220609T124312.000Z
+Golem , Baby Dragon , Mega Minion , Lumberjack , Electro Dragon , Barbarian Barrel , Cannon Cart , Tornado , #2QUCG2890 , #29R8JQCR8 , 5978 , 20220609T061419.000Z
+The Log , Witch , Lightning , Mini P.E.K.K.A , Minion Horde , Hog Rider , Zap , Prince , #80Y02PUUY , #29R8JQCR8 , 5906 , 20220609T004929.000Z
+X-Bow , Tesla , Knight , Archers , Skeletons , Electro Spirit , Fireball , The Log , #9C0RCVG2 , #29R8JQCR8 , 5939 , 20220608T231138.000Z
+Royal Giant , Skeleton Army , Arrows , Firecracker , Inferno Dragon , Lightning , Mini P.E.K.K.A , Valkyrie , #9Q2CC8GRL , #29R8JQCR8 , 5911 , 20220608T230855.000Z
+Princess , Goblin Barrel , Valkyrie , Inferno Tower , Electro Spirit , Guards , The Log , Rocket , #9PGPJR0RQ , #29R8JQCR8 , 5927 , 20220608T230527.000Z
+Goblin Barrel , Guards , Inferno Tower , Rocket , The Log , Golden Knight , Princess , Mirror , #92Y89Q , #29R8JQCR8 , 5935 , 20220608T230141.000Z
+Tesla , Knight , Hog Rider , Poison , Ice Golem , Firecracker , Bats , The Log , #2RQCU0GLU , #29R8JQCR8 , 5967 , 20220608T225846.000Z
+Bats , Skeleton Barrel , Goblin Gang , Mega Knight , Inferno Dragon , Royal Ghost , Miner , Zap , #2PJGPRGUV , #29R8JQCR8 , 5917 , 20220608T225337.000Z
+Fireball , Bomb Tower , Tornado , Spear Goblins , Miner , Magic Archer , Valkyrie , Wall Breakers , #8C9CC2Q2 , #29R8JQCR8 , 5917 , 20220608T225024.000Z
+Goblin Barrel , Prince , Zap , Rocket , Executioner , Mirror , Skeleton Army , Giant Skeleton , #YPLVUQYRU , #29R8JQCR8 , 5967 , 20220608T224527.000Z
+Dart Goblin , Giant Snowball , Bomber , Fireball , Inferno Dragon , Tombstone , Balloon , Lava Hound , #2LUCYY9YV , #29R8JQCR8 , 5897 , 20220608T224139.000Z
+Rage , Bowler , Balloon , Arrows , Tombstone , Three Musketeers , Wizard , Skeleton Dragons , #QGG92GCP , #29R8JQCR8 , 5904 , 20220608T223637.000Z
+Bandit , Lightning , P.E.K.K.A , Barbarian Barrel , Electro Wizard , Baby Dragon , Zap , Ram Rider , #2RUJP0YVL , #29R8JQCR8 , 5924 , 20220608T223320.000Z
+Knight , Hog Rider , Musketeer , Mortar , Ice Spirit , Fireball , The Log , Skeletons , #8LUQGLPR , #29R8JQCR8 , 5898 , 20220608T222412.000Z
+Barbarian Barrel , Tornado , Tombstone , Ice Wizard , Poison , Baby Dragon , Valkyrie , Graveyard , #9J0V2R08Y , #29R8JQCR8 , 5892 , 20220608T222001.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #29R8JQCR8 , 5834 , 20220608T153347.000Z
+Skeleton Army , Prince , Balloon , P.E.K.K.A , Wizard , Baby Dragon , Rocket , Arrows , #9CUUYUG0Y , #29R8JQCR8 , 5855 , 20220608T153033.000Z
+Mirror , Heal Spirit , Magic Archer , Elite Barbarians , Golden Knight , Barbarian Barrel , Skeleton Army , Tesla , #2VGP8VUY , #29R8JQCR8 , 5805 , 20220608T124653.000Z
+Prince , Ram Rider , Wizard , Fireball , Skeleton Army , Goblin Barrel , Barbarian Barrel , Freeze , #YLCR8GG9 , #29R8JQCR8 , 5783 , 20220608T103203.000Z
+Dark Prince , Hog Rider , Rocket , Inferno Tower , Goblins , Knight , Musketeer , Zap , #8G8JCQJQL , #29R8JQCR8 , 5770 , 20220608T102830.000Z
+Golem , Golden Knight , Goblin Cage , Baby Dragon , Barbarian Barrel , Night Witch , Tornado , Lightning , #829RJLU , #29R8JQCR8 , 5727 , 20220608T102415.000Z
+Hog Rider , Musketeer , Dark Prince , Cannon , Arrows , Ice Spirit , Lightning , Skeletons , #P29VLQYP9 , #29R8JQCR8 , 5753 , 20220608T102104.000Z
+Skeletons , Electro Spirit , Firecracker , Valkyrie , Fireball , Tesla , Hog Rider , The Log , #PU2LVCR2G , #29R8JQCR8 , 5815 , 20220608T101559.000Z
+Goblin Barrel , Princess , The Log , Inferno Tower , Knight , Guards , Electro Spirit , Rocket , #8Q0C0QLL , #PQUGVU08Q , 5631 , 20220609T205057.000Z
+Hog Rider , Cannon , The Log , Ice Golem , Skeletons , Musketeer , Electro Spirit , Fireball , #CYC98RV , #PQUGVU08Q , 5831 , 20220608T160044.000Z
+Hog Rider , Fireball , Magic Archer , Bandit , Royal Ghost , Electro Wizard , P.E.K.K.A , The Log , #92V09GPLY , #PQUGVU08Q , 5857 , 20220608T155523.000Z
+Poison , Archers , Hog Rider , Mini P.E.K.K.A , Electro Wizard , Witch , Arrows , Barbarians , #VP00LU9 , #PQUGVU08Q , 5873 , 20220608T155204.000Z
+Prince , Skeleton Army , Goblin Barrel , Valkyrie , Princess , Zap , Electro Wizard , Hog Rider , #8VGVQY08L , #PQUGVU08Q , 5908 , 20220608T154850.000Z
+Royal Recruits , Inferno Tower , Guards , Fireball , Zappies , Royal Hogs , Arrows , Archer Queen , #20J2PLU , #PQUGVU08Q , 5875 , 20220608T154529.000Z
+Mini P.E.K.K.A , Tornado , Executioner , Hog Rider , Guards , Fireball , The Log , Ice Spirit , #QGQ09U9V , #PQUGVU08Q , 5895 , 20220608T154212.000Z
+Princess , Goblin Barrel , The Log , Guards , Rocket , Mirror , Inferno Tower , Valkyrie , #2QYURC992 , #PQUGVU08Q , 5930 , 20220608T153832.000Z
+Electro Giant , Lightning , The Log , Arrows , Skeleton Dragons , Goblin Gang , Archer Queen , Mini P.E.K.K.A , #8Y9P80GP , #PQUGVU08Q , 5903 , 20220608T153406.000Z
+Goblin Barrel , Rocket , Princess , Inferno Tower , Valkyrie , Ice Spirit , The Log , Goblin Gang , #PLGCR9PUR , #PQUGVU08Q , 5861 , 20220608T153035.000Z
+Prince , Goblin Gang , Dart Goblin , Wizard , Rocket , Giant Skeleton , Minions , The Log , #2UGYVGG0Y , #PQUGVU08Q , 5830 , 20220608T152712.000Z
+Valkyrie , Dark Prince , Minions , Mini P.E.K.K.A , Arrows , Elite Barbarians , Furnace , Flying Machine , #80CRC29C , #PQUGVU08Q , 5780 , 20220608T152232.000Z
+Tornado , The Log , Golem , Night Witch , Skeleton Army , Valkyrie , Inferno Dragon , Baby Dragon , #9JL9CG9L9 , #PQUGVU08Q , 5828 , 20220608T151857.000Z
+Royal Ghost , Royal Giant , Skeletons , Archer Queen , Fisherman , The Log , Electro Spirit , Fireball , #9RG208V8 , #PQUGVU08Q , 5861 , 20220608T151519.000Z
+Golem , Skeleton Army , Poison , Earthquake , Mega Minion , Bomber , Mini P.E.K.K.A , Night Witch , #LYUYRYU2 , #PQUGVU08Q , 5822 , 20220608T151150.000Z
+Ice Spirit , Skeletons , Fireball , The Log , Ice Golem , Cannon , Hog Rider , Musketeer , #PRJUQ9JPV , #PQUGVU08Q , 5779 , 20220608T150704.000Z
+Prince , Sparky , Valkyrie , Wizard , Zap , Minions , Balloon , Mirror , #YUGR92VPU , #PQUGVU08Q , 5770 , 20220608T150459.000Z
+Giant Skeleton , Musketeer , Dart Goblin , Flying Machine , Clone , Skeleton Barrel , Bandit , Arrows , #90GC0R8RU , #PQUGVU08Q , 5799 , 20220608T150144.000Z
+Hog Rider , Royal Ghost , Princess , Valkyrie , Electro Wizard , Skeleton Army , Arrows , Mini P.E.K.K.A , #8G9PCVLU , #PQUGVU08Q , 5823 , 20220608T145755.000Z
+Ice Golem , Hog Rider , Musketeer , Fireball , Ice Spirit , Skeletons , Cannon , The Log , #8C00UUJRG , #PQUGVU08Q , 5846 , 20220608T145423.000Z
+Night Witch , Guards , Ice Spirit , Zap , Poison , Inferno Dragon , Golem , Mega Minion , #8CUJUJCR0 , #PQUGVU08Q , 5854 , 20220608T145059.000Z
+Guards , Inferno Tower , Royal Delivery , Dart Goblin , The Log , Goblin Barrel , Skeleton Barrel , Golden Knight , #8RRRVV2V , #PQUGVU08Q , 5898 , 20220608T144725.000Z
+Zap , Knight , Goblin Gang , Inferno Tower , Lightning , Skeleton Army , Hog Rider , Princess , #2CJULV8QL , #PQUGVU08Q , 5872 , 20220608T144146.000Z
+Miner , Wall Breakers , Valkyrie , Tombstone , Spear Goblins , Firecracker , The Log , Lightning , #2VGG8C99Y , #PQUGVU08Q , 5861 , 20220608T143816.000Z
+Firecracker , Earthquake , Skeletons , Ice Golem , Hog Rider , Mini P.E.K.K.A , The Log , Bats , #L989YCLUV , #LU29VPPR2 , 6207 , 20220609T165525.000Z
+Zap , Prince , Arrows , Mini P.E.K.K.A , Giant , Rage , Dark Prince , Witch , #2VYVVGYUG , #LU29VPPR2 , 5551 , 20220609T165017.000Z
+Knight , Rocket , Goblin Barrel , The Log , Princess , Tesla , Ice Spirit , Skeleton Army , #2QJ9J22LQ , #LU29VPPR2 , 5458 , 20220609T164604.000Z
+Electro Giant , Bats , Arrows , Skeleton Army , Valkyrie , Dark Prince , Mirror , Witch , #9QQU8QLCL , #LU29VPPR2 , 5661 , 20220609T164250.000Z
+Rage , The Log , Electro Dragon , Dark Prince , Musketeer , Fireball , Giant Skeleton , Hog Rider , #9J0C9CPLR , #LU29VPPR2 , 5975 , 20220609T163549.000Z
+Elite Barbarians , Zap , Barbarian Barrel , Wall Breakers , Dart Goblin , Cannon Cart , Electro Wizard , Battle Ram , #PLJ9YY8R , #LU29VPPR2 , 6066 , 20220609T161518.000Z
+Dart Goblin , Bowler , Wall Breakers , Miner , Prince , Barbarian Barrel , Furnace , Skeleton Army , #89J9CVYUV , #LU29VPPR2 , 6004 , 20220609T161040.000Z
+Lumberjack , Balloon , Tornado , Barbarian Barrel , Inferno Dragon , Bowler , Baby Dragon , Freeze , #2R28ULGQJ , #LU29VPPR2 , 5914 , 20220609T160110.000Z
+Lava Hound , Balloon , Fireball , Mega Minion , Guards , Zap , Tombstone , Skeleton Dragons , #L8YR2JPR , #LU29VPPR2 , 5960 , 20220609T155128.000Z
+Inferno Dragon , Hog Rider , Wizard , Rage , Electro Wizard , Furnace , Fireball , Valkyrie , #2UCRLRC , #LU29VPPR2 , 4740 , 20220609T151405.000Z
+Skeletons , Goblin Barrel , Valkyrie , The Log , Cannon , Dart Goblin , Electro Spirit , Fireball , #P9CR8V99P , #LU29VPPR2 , 5856 , 20220609T144819.000Z
+Valkyrie , Graveyard , Freeze , Baby Dragon , Barbarian Barrel , Tombstone , Ice Wizard , Tornado , #9V9Q0VVQU , #LU29VPPR2 , 5993 , 20220608T204406.000Z
+Ice Golem , The Log , Hog Rider , Fire Spirit , Musketeer , Earthquake , Cannon , Skeletons , #QYUQJUJRL , #LU29VPPR2 , 5957 , 20220608T203949.000Z
+Rocket , Goblin Barrel , Princess , Electro Spirit , Goblin Gang , Valkyrie , Inferno Tower , The Log , #8PVV8UCQ0 , #LU29VPPR2 , 5978 , 20220608T203739.000Z
+Bandit , Bomber , Fire Spirit , Goblin Drill , Inferno Tower , Rocket , Skeletons , The Log , #JPQ8LYCV , #LU29VPPR2 , 5976 , 20220608T203342.000Z
+Sparky , Giant , Zap , Arrows , Bats , Mini P.E.K.K.A , Mirror , Minion Horde , #8J8UC08V , #LU29VPPR2 , 5935 , 20220608T202940.000Z
+Hog Rider , Minions , Barbarians , Fireball , Knight , The Log , Princess , Inferno Tower , #J98JC8C , #LU29VPPR2 , 5957 , 20220608T202631.000Z
+Hog Rider , Knight , Archer Queen , Fireball , Ice Spirit , The Log , Cannon , Skeletons , #CQPCU9UP , #LU29VPPR2 , 5925 , 20220608T202304.000Z
+Arrows , P.E.K.K.A , Princess , Minion Horde , Skeleton Barrel , Inferno Tower , Miner , Skeleton Army , #YC8YQ0UG , #LU29VPPR2 , 5956 , 20220608T201939.000Z
+Knight , Dart Goblin , Princess , Goblin Barrel , The Log , Skeleton Barrel , Bomb Tower , Skeleton Army , #JCU02LGJ , #LU29VPPR2 , 5899 , 20220608T201511.000Z
+Giant Skeleton , Cannon Cart , Electro Wizard , Royal Ghost , Goblin Drill , Baby Dragon , Mirror , Fireball , #9CUR0VUY9 , #LU29VPPR2 , 5948 , 20220608T201147.000Z
+Goblin Drill , Wall Breakers , Bandit , Royal Ghost , Skeletons , Magic Archer , Tornado , Bomb Tower , #8LPVGQP8 , #LU29VPPR2 , 5857 , 20220608T200815.000Z
+Lava Hound , Balloon , Barbarians , Skeleton Dragons , Zap , Fireball , Tombstone , Mega Minion , #PC0YPLRJ , #P909QV99 , 6153 , 20220609T171004.000Z
+X-Bow , Elixir Collector , Archer Queen , Mini P.E.K.K.A , Skeletons , Fire Spirit , Electro Spirit , The Log , #2CP9Q8JP , #P909QV99 , 6064 , 20220609T170649.000Z
+Electro Giant , Inferno Dragon , Tornado , Bomber , Mother Witch , Goblin Cage , Dark Prince , Lightning , #PGV90CU8P , #P909QV99 , 6600 , 20220609T151837.000Z
+Hog Rider , The Log , Skeletons , Knight , Mirror , Firecracker , Tornado , Cannon , #G0LRCV0U9 , #P909QV99 , 5432 , 20220609T130827.000Z
+Lava Hound , Baby Dragon , Guards , Arrows , Flying Machine , Tombstone , Miner , Inferno Dragon , #V2QUUGCJ , #P909QV99 , 6083 , 20220609T130636.000Z
+Poison , Dark Prince , Magic Archer , Goblin Drill , Electro Wizard , Royal Ghost , P.E.K.K.A , Giant Snowball , #22C0L098C , #P909QV99 , 6120 , 20220609T130339.000Z
+Fire Spirit , Cannon , Archer Queen , The Log , Royal Hogs , Earthquake , Royal Delivery , Skeletons , #LPCCV2CY , #P909QV99 , 5733 , 20220609T080731.000Z
+Royal Giant , Zap , Lightning , Skeleton Army , Elite Barbarians , Archers , Minions , Furnace , #YJPYL9JC , #P909QV99 , 6069 , 20220609T080117.000Z
+Night Witch , Elixir Golem , Electro Dragon , Fireball , Arrows , Battle Healer , Rage , Elite Barbarians , #2U2P9QLRG , #P909QV99 , 5995 , 20220609T071421.000Z
+Furnace , Rage , Tesla , Arrows , Barbarian Hut , Mirror , Elixir Golem , Clone , #8Q9GGPVC0 , #P909QV99 , 6600 , 20220609T055545.000Z
+Fireball , Miner , Arrows , Mega Knight , Flying Machine , Tombstone , Cannon Cart , Electro Wizard , #UG92C0GR , #P909QV99 , 5983 , 20220609T054839.000Z
+Witch , Mega Knight , Mini P.E.K.K.A , Mirror , Zap , Dart Goblin , Bandit , Archer Queen , #2Y8LQLRP2 , #P909QV99 , 6095 , 20220609T045854.000Z
+The Log , Hunter , Fisherman , Fireball , Zappies , Skeleton Army , Skeleton King , Royal Giant , #UY2UCG9U , #P909QV99 , 6061 , 20220608T192851.000Z
+Princess , Ice Spirit , Hog Rider , Goblin Barrel , Tesla , The Log , Dart Goblin , Knight , #PPVVQ2P , #P909QV99 , 5751 , 20220608T185810.000Z
+Bats , Skeleton Barrel , Fireball , Dart Goblin , Giant Skeleton , Cannon Cart , Skeleton Army , Mortar , #LGLVQJGJR , #P909QV99 , 6061 , 20220608T183348.000Z
+Mirror , Furnace , Goblin Barrel , Valkyrie , Mega Knight , Fireball , Wizard , Lightning , #Y8QLCJ0J , #P909QV99 , 5559 , 20220608T182846.000Z
+Elite Barbarians , Bandit , Three Musketeers , Elixir Collector , Golden Knight , Valkyrie , Mirror , Arrows , #9LLG8LU08 , #P909QV99 , 6036 , 20220608T150747.000Z
+Wizard , Skeleton Army , Mega Knight , Lumberjack , Goblin Barrel , Hog Rider , The Log , Baby Dragon , #L0JR8QVJY , #P909QV99 , 5201 , 20220608T130829.000Z
+Rocket , Inferno Tower , The Log , Skeletons , Tornado , Ice Wizard , Bats , Poison , #PLGCR9PUR , #P909QV99 , 5861 , 20220608T130447.000Z
+Royal Giant , Night Witch , Zap , Ice Wizard , Mini P.E.K.K.A , Musketeer , Barbarian Barrel , Lightning , #8QCUC9V0 , #P909QV99 , 5868 , 20220608T130150.000Z
+Hog Rider , Mega Knight , Firecracker , Bats , The Log , Earthquake , Mini P.E.K.K.A , Electro Wizard , #JG2GYVPY , #P909QV99 , 5644 , 20220608T125627.000Z
+Goblin Drill , Guards , Inferno Tower , The Log , Dart Goblin , Valkyrie , Wall Breakers , Fireball , #9JC0LV92 , #P909QV99 , 6096 , 20220608T124051.000Z
+Skeletons , The Log , Tornado , Hog Rider , Ice Golem , Poison , Mini P.E.K.K.A , Executioner , #GQ9U2JCP , #9G99P0PGV , 6004 , 20220609T221608.000Z
+Bomber , Knight , Baby Dragon , Valkyrie , Barbarians , Hog Rider , Wizard , The Log , #20V0GPYUQ , #9G99P0PGV , 5394 , 20220609T221402.000Z
+Electro Giant , Goblin Cage , Ice Wizard , Baby Dragon , Dark Prince , Lightning , Tornado , Barbarian Barrel , #90CG9PPP , #9G99P0PGV , 5338 , 20220609T220438.000Z
+Knight , Cannon , Barbarians , Fireball , Hog Rider , Wizard , Ice Wizard , Electro Wizard , #2PQUYJQU , #9G99P0PGV , 5514 , 20220609T220045.000Z
+Inferno Tower , Goblin Drill , Guards , Fireball , Wall Breakers , Bomber , Dart Goblin , Valkyrie , #LP29YCLQV , #9G99P0PGV , 5771 , 20220609T215710.000Z
+Dart Goblin , Goblin Barrel , Guards , Barbarian Barrel , Valkyrie , Lightning , Princess , Elite Barbarians , #8L08U0RCL , #9G99P0PGV , 5401 , 20220609T215356.000Z
+Elixir Golem , Mirror , Clone , Mega Knight , Giant Snowball , Ice Wizard , Ice Spirit , Goblin Gang , #R8R89R99U , #9G99P0PGV , 5667 , 20220609T215007.000Z
+Skeleton Army , Bomber , Inferno Dragon , Arrows , Freeze , Cannon , Graveyard , Mighty Miner , #2GYJ2P2LJ , #9G99P0PGV , 6823 , 20220609T214609.000Z
+Hog Rider , Inferno Dragon , Fireball , Valkyrie , Bomber , Mini P.E.K.K.A , Inferno Tower , Arrows , #22JV2UV00 , #9G99P0PGV , 3988 , 20220609T214233.000Z
+Mighty Miner , Dart Goblin , Barbarian Barrel , Bats , Wall Breakers , Zap , Skeletons , Miner , #PGRULJJ8R , #9G99P0PGV , 5759 , 20220609T213855.000Z
+Mini P.E.K.K.A , Golden Knight , Goblin Giant , Sparky , Bats , Rage , Spear Goblins , Zap , #PR0CLPVJ , #9G99P0PGV , 5975 , 20220609T213534.000Z
+Elixir Golem , Electro Dragon , Battle Healer , Arrows , Barbarians , Inferno Dragon , Zap , Rage , #2L2JPGQCJ , #9G99P0PGV , 6123 , 20220609T213149.000Z
+Bowler , Golem , Tornado , Firecracker , Electro Dragon , Mini P.E.K.K.A , Earthquake , Skeleton Barrel , #R0JJ98JP , #9G99P0PGV , 5754 , 20220609T212722.000Z
+The Log , Skeletons , Inferno Tower , Fire Spirit , Earthquake , Elixir Collector , Ice Spirit , Mirror , #2VL8LC9G , #9G99P0PGV , 5950 , 20220609T124227.000Z
+Princess , The Log , Tesla , Fire Spirit , Valkyrie , Goblin Barrel , Guards , Rocket , #80YL8JPPR , #9G99P0PGV , 5729 , 20220609T122828.000Z
+Royal Delivery , Archer Queen , Fire Spirit , Skeletons , Earthquake , Royal Hogs , Cannon , The Log , #8RG8280G9 , #9G99P0PGV , 6112 , 20220609T122003.000Z
+Mother Witch , Giant Skeleton , The Log , Fisherman , Royal Giant , Electro Spirit , Zappies , Fireball , #GLC222QPL , #9G99P0PGV , 6085 , 20220609T121527.000Z
+Mini P.E.K.K.A , Hunter , Golem , Minion Horde , Wizard , Dark Prince , Lightning , Goblins , #QRU90GG , #9G99P0PGV , 5492 , 20220609T065729.000Z
+Skeletons , Fire Spirit , Cannon , Rocket , Goblin Barrel , The Log , Princess , Mighty Miner , #89JGLJPRG , #9G99P0PGV , 6600 , 20220609T065319.000Z
+Barbarian Barrel , Tornado , Tombstone , Ice Wizard , Poison , Baby Dragon , Valkyrie , Graveyard , #9J0V2R08Y , #9G99P0PGV , 5876 , 20220609T064741.000Z
+Giant , Night Witch , Graveyard , Arrows , Skeleton Army , Bats , Giant Snowball , Bowler , #80LV9GRG8 , #9G99P0PGV , 6125 , 20220609T002025.000Z
+Skeletons , The Log , Ice Spirit , Ice Golem , Fireball , Cannon , Musketeer , Hog Rider , #2CQG2Q9RG , #9G99P0PGV , 6092 , 20220609T001703.000Z
